@@ -9,6 +9,7 @@ import numpy as np
 import scipy
 import pandas as pd
 import seaborn as sns
+
 sns.set(style="darkgrid")
 
 model_code = """
@@ -101,7 +102,7 @@ generated quantities{
     matrix[n_days_total, n_states] pi;
     for (i in 1:n_days_total) {
       for (j in 1:n_states) {
-        pi[i][j] = pi_logit[i][j];
+        pi[i][j] = inv_logit(pi_logit[i][j]);
       }
     }
 }
@@ -118,7 +119,7 @@ states_num_dict = {state: num for num, state in enumerate(states)}
 n_states = 50
 
 
-def get_2008_data(hist_dist_std, project_root):
+def get_2008_data(hist_dist_std, project_root, weeks_before_election):
     """
     returns an output dictionary -
         int polls_n_democratic[n_polls]; // n_clinton[i] = number of democratic voters in poll i
@@ -173,6 +174,9 @@ def get_2008_data(hist_dist_std, project_root):
                 poll_day = (datetime.datetime(2008, int(poll_datestring[0]), int(poll_datestring[1])) - date1).days + 1
                 # some polls were taken after election day, so we can throw them out.
                 if poll_day >= n_days_total:
+                    continue
+                # sometimes we only want to look at polls up till a certain date:
+                if day_to_week_map[poll_day] > n_wks_total - weeks_before_election:
                     continue
                 voter_count_str = w[idx_n_voters].split()[0]
                 if not voter_count_str.isnumeric():
@@ -233,7 +237,7 @@ def create_historical_predictions_for_2008(hist_dist_std, project_root):
     return hist_dist, hist_dist_precision
 
 
-def get_2016_data(hist_dist_std, project_root):
+def get_2016_data(hist_dist_std, project_root, weeks_before_election):
     """
     returns an output dictionary -
         int polls_n_democratic[n_polls]; // n_clinton[i] = number of democratic voters in poll i
@@ -301,7 +305,9 @@ def get_2016_data(hist_dist_std, project_root):
                 # some polls were taken after election day, so we can throw them out.
                 if poll_day >= n_days_total:
                     continue
-
+                # sometimes we only want to look at polls up till a certain date:
+                if day_to_week_map[poll_day] > n_wks_total - weeks_before_election:
+                    continue
                 voter_count_str = w[idx_n_voters].strip('"')
                 if not voter_count_str.isnumeric():
                     continue
@@ -392,19 +398,19 @@ def fit_model(model, data, iterations, chains, cache_name):
     return fit
 
 
-def run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root):
+def run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root, weeks_before_election):
     year = 2016
-    data_2016 = get_2016_data(hist_dist_std, project_root)
-    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-                                                                                       chains, hist_dist_std)
+    data_2016 = get_2016_data(hist_dist_std, project_root, weeks_before_election)
+    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-'.format(year, code_hash, iterations, chains) + \
+                 'hist_dist_std_{}-wks_before{}.pkl'.format(hist_dist_std, weeks_before_election)
     fit = fit_model(model, data_2016, iterations, chains, cache_name)
 
 
-def run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root):
+def run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root, weeks_before_election):
     year = 2008
-    data_2008 = get_2008_data(hist_dist_std, project_root)
-    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-                                                                                       chains, hist_dist_std)
+    data_2008 = get_2008_data(hist_dist_std, project_root, weeks_before_election)
+    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-'.format(year, code_hash, iterations, chains) + \
+                 'hist_dist_std_{}-wks_before{}.pkl'.format(hist_dist_std, weeks_before_election)
     fit = fit_model(model, data_2008, iterations, chains, cache_name)
 
 
@@ -418,6 +424,7 @@ def main():
     parser.add_argument('--cores_per_chain', default="1")
     parser.add_argument('--saved_fit', default='')
     parser.add_argument('--saved_model', default='')
+    parser.add_argument('--weeks_before_election', default=0, type=int)
     args = parser.parse_args()
 
     cores_per_chain = args.cores_per_chain
@@ -428,6 +435,7 @@ def main():
     project_root = args.project_root
     saved_fit = args.saved_fit
     saved_model = args.saved_model
+    weeks_before_election = args.weeks_before_election
 
     os.environ['STAN_NUM_THREADS'] = cores_per_chain
 
@@ -450,7 +458,7 @@ def main():
         pi_florida = np.asarray(pi[:, -180:, 35])  # we only want to get the last 180 days of polling
         for i in range(0, len(pi_florida)):
             for j in range(0, len(pi_florida[i])):
-                    pi_florida[i][j] = 1/(1 + math.exp(-1*pi_florida[i][j]))
+                pi_florida[i][j] = 1 / (1 + math.exp(-1 * pi_florida[i][j]))
         '''
         pi_florida looks like:
         array([[0.502, 0.501, 0.5,... 0.503], <-chain1, 180 days 
@@ -481,9 +489,9 @@ def main():
     print('Creating model')
     model, code_hash = stan_model_cache(model_code=model_code)
     if year == '2016':
-        run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root)
+        run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root, weeks_before_election)
     elif year == '2008':
-        run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root)
+        run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root, weeks_before_election)
 
 
 def mean_confidence_interval(data, confidence=0.90):
