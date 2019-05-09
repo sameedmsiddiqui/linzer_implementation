@@ -413,7 +413,7 @@ def main():
     parser.add_argument('--hist_dist_std', type=float)
     parser.add_argument('--iterations', type=int)
     parser.add_argument('--project_root', required=True)
-    parser.add_arguments('--cores_per_chain', default="1")
+    parser.add_argument('--cores_per_chain', default="1")
     args = parser.parse_args()
 
     cores_per_chain = args.cores_per_chain
