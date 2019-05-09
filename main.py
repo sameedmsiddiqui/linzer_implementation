@@ -382,7 +382,7 @@ def fit_model(model, data, iterations, chains, cache_name):
         fit = model.sampling(data=data, iter=iterations, chains=chains)
         with open(cache_name, 'wb') as f:
             pickle.dump(fit, f)
-    print('finished fitting model for ' + cache_name))
+    print('finished fitting model for ' + cache_name)
     return fit
 
 
@@ -406,45 +406,45 @@ def main():
                                                                                        chains, hist_dist_std)
     fit = fit_model(model, data_2016, iterations, chains, cache_name)
 
-    # # ---------- #
-    # #  for 2008  #
-    # # ---------- #
-    # hist_dist_std = .016
-    # iterations = 2000
-    # chains = 4
-    # year = 2008
-    # data = get_2008_data(hist_dist_std)
-    # cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-    #                                                                                    chains, hist_dist_std)
-    # fit = fit_model(model, data, iterations, chains, cache_name)
+    # ---------- #
+    #  for 2008  #
+    # ---------- #
+    hist_dist_std = .016
+    iterations = 2000
+    chains = 4
+    year = 2008
+    data = get_2008_data(hist_dist_std)
+    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
+                                                                                       chains, hist_dist_std)
+    fit = fit_model(model, data, iterations, chains, cache_name)
 
-    # #############################################################
-    # # use Linzer's standard errors for historical projection #
-    # #############################################################
-    # # ---------- #
-    # #  for 2016  #
-    # # ---------- #
-    # hist_dist_std = math.sqrt(1/20)
-    # iterations = 2000
-    # chains = 2
-    # year = 2016
-    # data_2016 = get_2016_data(hist_dist_std)
+    #############################################################
+    # use Linzer's standard errors for historical projection #
+    #############################################################
+    # ---------- #
+    #  for 2016  #
+    # ---------- #
+    hist_dist_std = math.sqrt(1/20)
+    iterations = 2000
+    chains = 
+    year = 2016
+    data_2016 = get_2016_data(hist_dist_std)
 
-    # cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-    #                                                                                    chains, hist_dist_std)
-    # fit = fit_model(model, data_2016, iterations, chains, cache_name)
+    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
+                                                                                       chains, hist_dist_std)
+    fit = fit_model(model, data_2016, iterations, chains, cache_name)
 
-    # # ---------- #
-    # #  for 2008  #
-    # # ---------- #
-    # hist_dist_std =  math.sqrt(1/20)
-    # iterations = 2000
-    # chains = 2
-    # year = 2008
-    # data = get_2008_data(hist_dist_std)
-    # cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-    #                                                                                    chains, hist_dist_std)
-    # fit = fit_model(model, data, iterations, chains, cache_name)
+    # ---------- #
+    #  for 2008  #
+    # ---------- #
+    hist_dist_std =  math.sqrt(1/20)
+    iterations = 2000
+    chains = 4
+    year = 2008
+    data = get_2008_data(hist_dist_std)
+    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
+                                                                                       chains, hist_dist_std)
+    fit = fit_model(model, data, iterations, chains, cache_name)
 
 
 
