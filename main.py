@@ -113,7 +113,7 @@ states_num_dict = {state: num for num, state in enumerate(states)}
 n_states = 50
 
 
-def get_2008_data(hist_dist_std):
+def get_2008_data(hist_dist_std, project_root):
     """
     returns an output dictionary -
         int polls_n_democratic[n_polls]; // n_clinton[i] = number of democratic voters in poll i
@@ -127,7 +127,7 @@ def get_2008_data(hist_dist_std):
         int n_wks_total;  // 1 + total number of weeks before election that we start
         int day_to_week_map[n_days_total]; // maps day to week
     """
-    poll_dir = '/media/user/unity/Documents/Educational/PhD/Spring 2018/6.435/project/obama2008/'
+    poll_dir = project_root + '/obama2008/'
 
     # first lets find the first day of our polling.
     election_date = datetime.datetime(2008, 11, 4)
@@ -195,8 +195,8 @@ def get_2008_data(hist_dist_std):
             'hist_dist_precision': hist_dist_precision}
 
 
-def create_historical_predictions_for_2008(hist_dist_std):
-    results_2004_file = "/media/user/unity/Documents/Educational/PhD/Spring 2018/6.435/project/2004_results.csv"
+def create_historical_predictions_for_2008(hist_dist_std, project_root):
+    results_2004_file = project_root + "/2004_results.csv"
 
     results_2004 = [0] * 50
     with open(results_2004_file) as file:
@@ -228,7 +228,7 @@ def create_historical_predictions_for_2008(hist_dist_std):
     return hist_dist, hist_dist_precision
 
 
-def get_2016_data(hist_dist_std):
+def get_2016_data(hist_dist_std, project_root):
     """
     returns an output dictionary -
         int polls_n_democratic[n_polls]; // n_clinton[i] = number of democratic voters in poll i
@@ -242,7 +242,7 @@ def get_2016_data(hist_dist_std):
         int n_wks_total;  // 1 + total number of weeks before election that we start
         int day_to_week_map[n_days_total]; // maps day to week
     """
-    poll_dir = '/media/user/unity/Documents/Educational/PhD/Spring 2018/6.435/project/trump2016/'
+    poll_dir = project_root + '/trump2016/'
 
     # first lets find the first day of our polling.
     election_date = datetime.datetime(2016, 11, 8)
@@ -323,8 +323,8 @@ def get_2016_data(hist_dist_std):
             'hist_dist_precision': hist_dist_precision}
 
 
-def create_historical_predictions_for_2016(hist_dist_std):
-    results_2012_file = "/media/user/unity/Documents/Educational/PhD/Spring 2018/6.435/project/2012_results.csv"
+def create_historical_predictions_for_2016(hist_dist_std, project_root):
+    results_2012_file = project_root + "/2012_results.csv"
 
     results_2012 = [0] * 50
     with open(results_2012_file) as file:
@@ -387,17 +387,17 @@ def fit_model(model, data, iterations, chains, cache_name):
     return fit
 
 
-def run_2016(model, iterations, chains, hist_dist_std, code_hash):
+def run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root):
     year = 2016
-    data_2016 = get_2016_data(hist_dist_std)
+    data_2016 = get_2016_data(hist_dist_std, project_root)
     cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
                                                                                        chains, hist_dist_std)
     fit = fit_model(model, data_2016, iterations, chains, cache_name)
 
 
-def run_2008(iterations, chains, hist_dist_std):
+def run_2008(iterations, chains, hist_dist_std, project_root):
     year = 2008
-    data_2016 = get_2008_data(hist_dist_std)
+    data_2016 = get_2008_data(hist_dist_std, project_root)
     cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
                                                                                        chains, hist_dist_std)
     fit = fit_model(model, data_2008, iterations, chains, cache_name)
@@ -412,21 +412,23 @@ def main():
     parser.add_argument('--chains', type=int)
     parser.add_argument('--hist_dist_std', type=float)
     parser.add_argument('--iterations', type=int)
+    parser.add_argument('--project_root', required=True)
     args = parser.parse_args()
 
     year = args.year
     chains = args.chains
     hist_dist_std = args.hist_dist_std
     iterations = args.iterations
+    project_root = args.project_root
 
     print('Creating model')
     model, code_hash = stan_model_cache(model_code=model_code)
 
     if year == '2016':
-        run_2016(model, iterations, chains, hist_dist_std, code_hash)
+        run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root)
 
     if year == '2008':
-        run_2008(model, iterations, chains, hist_dist_std, code_hash)
+        run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root)
 
 
 if __name__ == "__main__":
