@@ -395,7 +395,7 @@ def run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root):
     fit = fit_model(model, data_2016, iterations, chains, cache_name)
 
 
-def run_2008(iterations, chains, hist_dist_std, project_root):
+def run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root):
     year = 2008
     data_2016 = get_2008_data(hist_dist_std, project_root)
     cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
@@ -413,13 +413,17 @@ def main():
     parser.add_argument('--hist_dist_std', type=float)
     parser.add_argument('--iterations', type=int)
     parser.add_argument('--project_root', required=True)
+    parser.add_arguments('--cores_per_chain', default="1")
     args = parser.parse_args()
 
+    cores_per_chain = args.cores_per_chain
     year = args.year
     chains = args.chains
     hist_dist_std = args.hist_dist_std
     iterations = args.iterations
     project_root = args.project_root
+
+    os.environ['STAN_NUM_THREADS'] = cores_per_chain
 
     print('Creating model')
     model, code_hash = stan_model_cache(model_code=model_code)
