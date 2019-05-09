@@ -397,7 +397,7 @@ def run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root):
 
 def run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root):
     year = 2008
-    data_2016 = get_2008_data(hist_dist_std, project_root)
+    data_2008 = get_2008_data(hist_dist_std, project_root)
     cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
                                                                                        chains, hist_dist_std)
     fit = fit_model(model, data_2008, iterations, chains, cache_name)
