@@ -2,6 +2,7 @@ import pystan
 import pickle
 import datetime
 import math
+import argparse
 import os
 from hashlib import md5
 
@@ -386,67 +387,46 @@ def fit_model(model, data, iterations, chains, cache_name):
     return fit
 
 
+def run_2016(model, iterations, chains, hist_dist_std, code_hash):
+    year = 2016
+    data_2016 = get_2016_data(hist_dist_std)
+    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
+                                                                                       chains, hist_dist_std)
+    fit = fit_model(model, data_2016, iterations, chains, cache_name)
+
+
+def run_2008(iterations, chains, hist_dist_std):
+    year = 2008
+    data_2016 = get_2008_data(hist_dist_std)
+    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
+                                                                                       chains, hist_dist_std)
+    fit = fit_model(model, data_2008, iterations, chains, cache_name)
+
+
+
 def main():
+
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--year', help='2008 or 2016?')
+    parser.add_argument('--chains', type=int)
+    parser.add_argument('--hist_dist_std', type=float)
+    parser.add_argument('--iterations', type=int)
+    args = parser.parse_args()
+
+    year = args.year
+    chains = args.chains
+    hist_dist_std = args.hist_dist_std
+    iterations = args.iterations
+
     print('Creating model')
     model, code_hash = stan_model_cache(model_code=model_code)
 
-    #############################################################
-    # use Abramowitz' standard errors for historical projection #
-    #############################################################
-    # ---------- #
-    #  for 2016  #
-    # ---------- #
-    hist_dist_std = .014
-    iterations = 2000
-    chains = 2
-    year = 2016
-    data_2016 = get_2016_data(hist_dist_std)
+    if year == '2016':
+        run_2016(model, iterations, chains, hist_dist_std, code_hash)
 
-    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-                                                                                       chains, hist_dist_std)
-    fit = fit_model(model, data_2016, iterations, chains, cache_name)
-
-    # ---------- #
-    #  for 2008  #
-    # ---------- #
-    hist_dist_std = .016
-    iterations = 2000
-    chains = 4
-    year = 2008
-    data = get_2008_data(hist_dist_std)
-    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-                                                                                       chains, hist_dist_std)
-    fit = fit_model(model, data, iterations, chains, cache_name)
-
-    #############################################################
-    # use Linzer's standard errors for historical projection #
-    #############################################################
-    # ---------- #
-    #  for 2016  #
-    # ---------- #
-    hist_dist_std = math.sqrt(1/20)
-    iterations = 2000
-    chains = 
-    year = 2016
-    data_2016 = get_2016_data(hist_dist_std)
-
-    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-                                                                                       chains, hist_dist_std)
-    fit = fit_model(model, data_2016, iterations, chains, cache_name)
-
-    # ---------- #
-    #  for 2008  #
-    # ---------- #
-    hist_dist_std =  math.sqrt(1/20)
-    iterations = 2000
-    chains = 4
-    year = 2008
-    data = get_2008_data(hist_dist_std)
-    cache_name = 'fit-model_{}-{}-iterations_{}-chains_{}-hist_dist_std_{}.pkl'.format(year, code_hash, iterations,
-                                                                                       chains, hist_dist_std)
-    fit = fit_model(model, data, iterations, chains, cache_name)
-
-
+    if year == '2008':
+        run_2008(model, iterations, chains, hist_dist_std, code_hash)
 
 
 if __name__ == "__main__":
