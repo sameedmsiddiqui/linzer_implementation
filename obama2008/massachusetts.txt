@@ -1,0 +1,19 @@
+SurveyUSA	10/27 - 10/28	658 LV	39	56	Obama +17
+Suffolk/7News	10/20 - 10/22	400 RV	34	53	Obama +19
+SurveyUSA	10/13 - 10/14	624 LV	35	59	Obama +24
+Rasmussen	10/13 - 10/13	500 LV	34	62	Obama +28
+SurveyUSA	9/22 - 9/23	679 LV	39	55	Obama +16
+Rasmussen	8/5 - 8/5	500 LV	38	54	Obama +16
+Suffolk/7News	7/31 - 8/3	--	38	47	Obama +9
+Rasmussen	6/30 - 6/30	500 LV	33	53	Obama +20
+SurveyUSA	6/25 - 6/27	607 LV	40	53	Obama +13
+Suffolk/7News	6/8 - 6/10	500 RV	30	53	Obama +23
+Rasmussen	5/29 - 5/29	500 LV	38	51	Obama +13
+SurveyUSA	5/16 - 5/18	600 RV	41	46	Obama +5
+Rasmussen	4/23 - 4/23	500 LV	39	51	Obama +12
+SurveyUSA	4/11 - 4/13	546 RV	46	48	Obama +2
+Rasmussen	3/18 - 3/18	500 LV	42	49	Obama +7
+SurveyUSA	3/14 - 3/16	510 RV	47	47	Tie
+SurveyUSA	2/26 - 2/28	636 RV	42	49	Obama +7
+SurveyUSA	1/20 - 1/21	562 RV	50	45	McCain +5
+SurveyUSA	12/12 - 12/21	542 RV	45	47	Obama +2

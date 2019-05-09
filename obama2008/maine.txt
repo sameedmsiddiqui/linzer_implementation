@@ -1,0 +1,17 @@
+Rasmussen	11/1 - 11/1	500 LV	43	56	Obama +13
+SurveyUSA	10/19 - 10/20	642 LV	39	54	Obama +15
+Critical Insights	10/16 - 10/19	443 LV	35	56	Obama +21
+Pan Atlantic SMS	10/13 - 10/16	400 LV	39	51	Obama +12
+Research 2000	10/14 - 10/15	600 LV	38	55	Obama +17
+Rasmussen	10/2 - 10/2	500 LV	46	51	Obama +5
+SurveyUSA	9/22 - 9/24	675 LV	44	49	Obama +5
+Rasmussen	9/17 - 9/17	500 LV	46	50	Obama +4
+Research 2000	9/8 - 9/10	600 LV	38	52	Obama +14
+Rasmussen	8/12 - 8/12	500 LV	39	53	Obama +14
+Rasmussen	7/17 - 7/17	500 LV	41	49	Obama +8
+Critical Insights	6/1 - 6/27	602 A	31	51	Obama +20
+Pan Atlantic SMS	6/10 - 6/18	400 RV	26	37	Obama +11
+Rasmussen	6/16 - 6/16	500 LV	33	55	Obama +22
+Rasmussen	5/14 - 5/14	500 LV	38	51	Obama +13
+Rasmussen	4/1 - 4/1	500 LV	39	49	Obama +10
+SurveyUSA	2/26 - 2/28	639 RV	39	53	Obama +14

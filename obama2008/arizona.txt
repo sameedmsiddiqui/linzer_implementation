@@ -1,0 +1,22 @@
+ARG	10/28 - 10/30	600 LV	4.0	50	46	McCain +4
+Research 2000	10/28 - 10/30	600 LV	4.0	48	47	McCain +1
+NBC/Mason-Dixon	10/27 - 10/28	625 LV	4.0	48	44	McCain +4
+CNN/Time	10/23 - 10/28	807 LV	3.5	53	46	McCain +7
+N. Ariz. Univ.	10/18 - 10/27	600 RV	4.0	49	41	McCain +8
+Rasmussen	10/26 - 10/26	500 LV	4.5	51	46	McCain +5
+Arizona State	10/23 - 10/26	1019 RV	3.0	46	44	McCain +2
+Zimmerman (D)	10/16 - 10/19	408 LV	4.9	44	42	McCain +2
+Rasmussen	9/29 - 9/29	500 LV	4.5	59	38	McCain +21
+Arizona State	9/25 - 9/28	975 RV	3.1	45	38	McCain +7
+Arizona State	8/14 - 8/16	402 RV	--	40	30	McCain +10
+Mason-Dixon	8/13 - 8/15	400 LV	5.0	47	41	McCain +6
+PPP (D)	7/30 - 7/31	1000 LV	--	52	40	McCain +12
+Rasmussen	7/30 - 7/30	500 LV	--	57	38	McCain +19
+Rasmussen	6/25 - 6/25	500 LV	4.5	49	40	McCain +9
+Arizona State	6/20 - 6/21	350 RV	--	38	28	McCain +10
+Behavior Res. Ctr	5/12 - 5/20	630 RV	--	50	39	McCain +11
+Arizona State	4/24 - 4/27	577 RV	--	47	38	McCain +9
+Rasmussen	4/15 - 4/15	500 LV	--	57	37	McCain +20
+N. Ariz. Univ.	3/30 - 4/8	369 LV	--	55	33	McCain +22
+SurveyUSA	2/26 - 2/28	613 RV	--	51	39	McCain +12
+Arizona State	2/21 - 2/24	522 RV	--	49	38	McCain +11

@@ -1,0 +1,7 @@
+Rasmussen	9/30 - 9/30	500 LV	56	37	McCain +19
+Rasmussen	7/28 - 7/28	500 LV	55	36	McCain +19
+Rasmussen	6/23 - 6/23	500 LV	52	36	McCain +16
+Research 2000	5/19 - 5/21	600 LV	57	29	McCain +28
+SurveyUSA	5/16 - 5/18	600 RV	49	40	McCain +9
+Rasmussen	5/15 - 5/15	500 LV	50	39	McCain +11
+SurveyUSA	2/26 - 2/28	623 RV	45	42	McCain +3

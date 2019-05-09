@@ -1,0 +1,18 @@
+SurveyUSA	10/27 - 10/28	626 LV	3.9	58	37	McCain +21
+SurveyUSA	10/21 - 10/22	613 LV	4.0	53	41	McCain +12
+Rasmussen	10/13 - 10/13	500 LV	4.5	54	41	McCain +13
+SurveyUSA	9/21 - 9/22	666 LV	3.9	53	41	McCain +12
+Rasmussen	9/18 - 9/18	500 LV	4.5	58	38	McCain +20
+SurveyUSA	8/18 - 8/20	641 LV	3.9	58	35	McCain +23
+Rasmussen	8/11 - 8/11	500 LV	4.5	55	41	McCain +14
+Rasmussen	7/14 - 7/14	500 LV	--	58	35	McCain +23
+TargetPoint (R)	6/27 - 7/1	3004 RV	--	49	36	McCain +13
+Rasmussen	6/11 - 6/11	500 LV	--	47	37	McCain +10
+Cooper & Secrest (D)*	6/5 - 6/8	808 LV	--	45	41	McCain +4
+Research 2000	6/2 - 6/4	600 LV	--	51	40	McCain +11
+SurveyUSA	5/16 - 5/18	600 RV	--	49	39	McCain +10
+Rasmussen	5/13 - 5/13	500 LV	--	55	34	McCain +21
+SurveyUSA	4/11 - 4/13	516 RV	--	54	37	McCain +17
+SurveyUSA	2/26 - 2/28	598 RV	--	50	41	McCain +9
+SurveyUSA	2/15 - 2/17	514 RV	--	50	44	McCain +6
+SurveyUSA	12/13 - 12/15	529 RV	--	56	36	McCain +20

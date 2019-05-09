@@ -1,0 +1,40 @@
+Rasmussen	11/2 - 11/2	500 LV	4.5	42	57	Obama +15
+Monmouth/Gannett	10/29 - 10/31	801 LV	3.5	34	55	Obama +21
+SurveyUSA	10/29 - 10/30	632 LV	4.0	42	52	Obama +10
+Fairleigh Dickinson	10/23 - 10/29	852 LV	3.5	35	53	Obama +18
+Research 2000	10/26 - 10/28	600 LV	4.0	38	54	Obama +16
+Strategic Vision (R)	10/24 - 10/26	800 LV	3.0	38	53	Obama +15
+Marist	10/20 - 10/21	628 LV	4.0	39	56	Obama +17
+Quinnipiac	10/16 - 10/19	1184 LV	2.9	36	59	Obama +23
+Monmouth/Gannett	10/15 - 10/18	723 LV	3.7	38	55	Obama +17
+SurveyUSA	10/11 - 10/12	551 LV	4.2	40	55	Obama +15
+Rasmussen	10/7 - 10/7	500 LV	4.5	42	50	Obama +8
+Fairleigh Dickinson	9/29 - 10/5	790 LV	3.5	37	50	Obama +13
+SurveyUSA	9/27 - 9/28	611 LV	4.0	42	52	Obama +10
+Strategic Vision (R)	9/26 - 9/28	800 LV	3.0	39	48	Obama +9
+Rasmussen	9/16 - 9/16	500 LV	--	42	55	Obama +13
+Strategic Vision (R)	9/14 - 9/16	800 LV	3.0	43	47	Obama +4
+Monmouth/Gannett	9/11 - 9/14	589 LV	4.0	41	49	Obama +8
+Quinnipiac	9/10 - 9/14	1187 LV	--	45	48	Obama +3
+Research 2000	9/9 - 9/11	600 LV	4.0	41	50	Obama +9
+Marist	9/5 - 9/8	805 RV	3.5	45	48	Obama +3
+Fairleigh Dickinson	9/4 - 9/7	872 LV	3.5	41	47	Obama +6
+Quinnipiac	8/4 - 8/10	1468 LV	--	41	51	Obama +10
+Rasmussen	8/4 - 8/4	500 LV	4.5	42	52	Obama +10
+Monmouth/Gannett	7/17 - 7/21	698 LV	3.7	36	50	Obama +14
+Strategic Vision (R)	7/11 - 7/13	800 LV	3.0	38	47	Obama +9
+Rasmussen	7/7 - 7/7	500 LV	--	44	47	Obama +3
+Fairleigh Dickinson	6/17 - 6/23	702 RV	--	33	49	Obama +16
+Quinnipiac	6/5 - 6/8	1473 LV	2.6	39	45	Obama +6
+Rasmussen	6/4 - 6/4	500 LV	--	39	48	Obama +9
+Monmouth/Gannett	4/24 - 4/28	720 RV	--	32	56	Obama +24
+Fairleigh Dickinson	3/24 - 3/30	800 RV	--	42	47	Obama +5
+Rasmussen	3/27 - 3/27	500 LV	--	46	45	McCain +1
+SurveyUSA	2/26 - 2/28	627 RV	--	43	43	Tie
+Rasmussen	2/27 - 2/27	500 LV	--	45	43	McCain +2
+Fairleigh Dickinson	2/18 - 2/24	795 RV	--	38	43	Obama +5
+Quinnipiac	2/13 - 2/18	1803 LV	--	39	46	Obama +7
+Quinnipiac	9/18 - 9/23	1230 RV	--	41	44	Obama +3
+Quinnipiac	6/26 - 7/2	1604 RV	--	40	44	Obama +4
+Quinnipiac	4/10 - 4/16	1424 RV	--	41	43	Obama +2
+Quinnipiac	2/20 - 2/25	1302 RV	--	41	45	Obama +4

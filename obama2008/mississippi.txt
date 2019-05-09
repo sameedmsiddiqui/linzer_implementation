@@ -1,0 +1,13 @@
+Research 2000	10/27 - 10/29	600 LV	4.0	53	40	McCain +13
+Rasmussen	10/27 - 10/27	500 LV	4.5	53	45	McCain +8
+Press Register	10/13 - 10/23	405 LV	5.0	46	33	McCain +13
+Research 2000	10/14 - 10/15	600 LV	4.0	50	40	McCain +10
+Rasmussen	9/30 - 9/30	500 LV	4.5	52	44	McCain +8
+Research 2000	9/8 - 9/10	600 LV	4.0	55	37	McCain +18
+Rasmussen	8/21 - 8/21	500 LV	4.5	56	43	McCain +13
+Rasmussen	7/28 - 7/28	500 LV	4.0	54	42	McCain +12
+Research 2000	7/21 - 7/23	600 LV	--	51	42	McCain +9
+Rasmussen	6/24 - 6/24	500 LV	4.0	50	44	McCain +6
+Rasmussen	5/27 - 5/27	500 LV	4.0	50	44	McCain +6
+Research 2000	5/19 - 5/21	600 LV	--	54	39	McCain +15
+SurveyUSA	2/26 - 2/28	622	4.0	54	41	McCain +13

@@ -1,0 +1,49 @@
+Mitchell Research	11/3 - 11/3	400 LV	5.0	38	54	Obama +16
+Detroit Free Press	10/28 - 10/31	616 LV	4.0	37	53	Obama +16
+PPP (D)	10/28 - 10/30	1532 LV	2.5	42	55	Obama +13
+Mitchell Research	10/26 - 10/30	600 LV	4.0	40	54	Obama +14
+Strategic Vision (R)	10/27 - 10/29	1200 LV	3.0	41	54	Obama +13
+Rasmussen	10/28 - 10/28	500 LV	4.5	43	53	Obama +10
+Det. News (EPIC/MRA)	10/26 - 10/28	600 LV	4.0	38	50	Obama +12
+Big10 Battleground	10/19 - 10/22	562 LV	4.2	36	58	Obama +22
+Det. News (EPIC/MRA)	10/19 - 10/20	400 LV	4.9	37	51	Obama +14
+Quinnipiac/WSJ/WP	10/8 - 10/12	1043 LV	3.0	38	54	Obama +16
+Rasmussen	10/8 - 10/8	500 LV	4.5	40	56	Obama +16
+Rossman Group/MIRS (D)	10/1 - 10/4	600 RV	--	39	44	Obama +5
+PPP (D)	9/29 - 10/1	731 LV	3.6	41	51	Obama +10
+Detroit Free Press	9/22 - 9/24	602 LV	4.0	38	51	Obama +13
+Strategic Vision (R)	9/22 - 9/24	1200 LV	3.0	45	48	Obama +3
+CNN/Time	9/21 - 9/23	755 LV	3.5	46	51	Obama +5
+NBC/Mason-Dixon	9/18 - 9/23	625 LV	4.0	46	46	Tie
+Det. News (EPIC/MRA)	9/20 - 9/22	400 LV	4.9	38	48	Obama +10
+National Journal/FD	9/18 - 9/22	406 RV	4.9	39	47	Obama +8
+FOX News/Rasmussen	9/21 - 9/21	500 LV	4.5	44	51	Obama +7
+Quinnipiac/WSJ/WP	9/14 - 9/21	1346 LV	2.7	44	48	Obama +4
+MRG (R)	9/15 - 9/20	600 LV	4.1	46	43	McCain +3
+Marist	9/16 - 9/17	599 LV	3.5	43	52	Obama +9
+Big10 Battleground	9/14 - 9/17	600 RV	4.0	44	48	Obama +4
+Det. News (EPIC/MRA)	9/14 - 9/17	602 LV	4.0	42	43	Obama +1
+InAdv/PollPosition	9/10 - 9/10	503 LV	4.3	45	44	McCain +1
+Rasmussen	9/10 - 9/10	700 LV	4.0	46	51	Obama +5
+CNN/Time	9/7 - 9/9	966 RV	3.0	45	49	Obama +4
+PPP (D)	9/6 - 9/7	1147 LV	2.9	46	47	Obama +1
+Strategic Vision (R)	9/5 - 9/7	1200 LV	3.0	44	45	Obama +1
+Det. News (EPIC/MRA)	8/18 - 8/21	600 LV	4.0	41	43	Obama +2
+Detroit Free Press	8/17 - 8/20	600 LV	4.0	39	46	Obama +7
+Rasmussen	8/7 - 8/7	500 LV	4.5	45	49	Obama +4
+PPP (D)	7/23 - 7/27	883 LV	--	43	46	Obama +3
+Quinnipiac/WSJ/WP	7/14 - 7/22	1684 LV	--	42	46	Obama +4
+Democracy Corps (D)	7/14 - 7/21	764 LV	--	43	48	Obama +5
+Detroit News	7/13 - 7/16	600 LV	4.0	41	43	Obama +2
+Rasmussen	7/10 - 7/10	500 LV	--	42	50	Obama +8
+Quinnipiac/WSJ/WP	6/17 - 6/24	1411 LV	--	42	48	Obama +6
+PPP (D)	6/21 - 6/22	571 LV	--	39	48	Obama +9
+Rasmussen	6/9 - 6/9	500 LV	--	42	45	Obama +3
+SurveyUSA	5/27 - 5/27	529 RV	--	41	37	McCain +4
+Detroit News	5/19 - 5/22	600 RV	--	44	40	McCain +4
+Rasmussen	5/7 - 5/7	500 LV	4.5	45	44	McCain +1
+EPIC-MRA	4/3 - 4/8	600 LV	--	41	43	Obama +2
+Rasmussen	3/25 - 3/25	500 LV	--	43	42	McCain +1
+Rasmussen	3/10 - 3/10	500 LV	--	44	41	McCain +3
+SurveyUSA	2/26 - 2/28	643 RV	--	45	46	Obama +1
+Rasmussen	2/17 - 2/17	500 LV	--	39	47	Obama +8

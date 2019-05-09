@@ -1,0 +1,1445 @@
+SurveyUSA	10/27 - 10/28	61	36	McCain +25
+AEA/Capital Survey	10/15 - 10/21	54	34	McCain +20
+SurveyUSA	10/8 - 10/9	62	35	McCain +27
+AEA/Capital Survey	10/2 - 10/7	55	35	McCain +20
+Rasmussen	9/22 - 9/22	60	39	McCain +21
+SurveyUSA	9/16 - 9/17	64	34	McCain +30
+Press Register	9/8 - 9/15	52	25	McCain +27
+AEA/Capital Survey	9/3 - 9/9	55	35	McCain +20
+Rasmussen	7/31 - 7/31	58	38	McCain +20
+AEA/Capital Survey	7/29 - 7/31	47	34	McCain +13
+AEA/Capital Survey	6/25 - 7/1	49	36	McCain +13
+Rasmussen	6/26 - 6/26	51	36	McCain +15
+AEA/Capital Survey	5/15 - 6/2	57	33	McCain +24
+Rasmussen	5/27 - 5/27	60	32	McCain +28
+AEA/Capital Survey	4/16 - 4/24	55	36	McCain +19
+SurveyUSA	4/11 - 4/13	64	32	McCain +32
+Rasmussen	4/2 - 4/2	55	37	McCain +18
+Press Register	3/24 - 3/27	57	30	McCain +27
+SurveyUSA	3/14 - 3/16	62	35	McCain +27
+SurveyUSA	2/26 - 2/28	54	40	McCain +14
+SurveyUSA	2/15 - 2/17	58	34	McCain +24
+SurveyUSA	12/13 - 12/15	54	36	McCain +18
+SurveyUSA	10/27 - 10/28	61	36	McCain +25
+AEA/Capital Survey	10/15 - 10/21	54	34	McCain +20
+SurveyUSA	10/8 - 10/9	62	35	McCain +27
+AEA/Capital Survey	10/2 - 10/7	55	35	McCain +20
+Rasmussen	9/22 - 9/22	60	39	McCain +21
+SurveyUSA	9/16 - 9/17	64	34	McCain +30
+Press Register	9/8 - 9/15	52	25	McCain +27
+AEA/Capital Survey	9/3 - 9/9	55	35	McCain +20
+Rasmussen	7/31 - 7/31	58	38	McCain +20
+AEA/Capital Survey	7/29 - 7/31	47	34	McCain +13
+AEA/Capital Survey	6/25 - 7/1	49	36	McCain +13
+Rasmussen	6/26 - 6/26	51	36	McCain +15
+AEA/Capital Survey	5/15 - 6/2	57	33	McCain +24
+Rasmussen	5/27 - 5/27	60	32	McCain +28
+AEA/Capital Survey	4/16 - 4/24	55	36	McCain +19
+SurveyUSA	4/11 - 4/13	64	32	McCain +32
+Rasmussen	4/2 - 4/2	55	37	McCain +18
+Press Register	3/24 - 3/27	57	30	McCain +27
+SurveyUSA	3/14 - 3/16	62	35	McCain +27
+SurveyUSA	2/26 - 2/28	54	40	McCain +14
+SurveyUSA	2/15 - 2/17	58	34	McCain +24
+SurveyUSA	12/13 - 12/15	54	36	McCain +18
+ARG	10/28 - 10/30	600 LV	4.0	50	46	McCain +4
+Research 2000	10/28 - 10/30	600 LV	4.0	48	47	McCain +1
+NBC/Mason-Dixon	10/27 - 10/28	625 LV	4.0	48	44	McCain +4
+CNN/Time	10/23 - 10/28	807 LV	3.5	53	46	McCain +7
+N. Ariz. Univ.	10/18 - 10/27	600 RV	4.0	49	41	McCain +8
+Rasmussen	10/26 - 10/26	500 LV	4.5	51	46	McCain +5
+Arizona State	10/23 - 10/26	1019 RV	3.0	46	44	McCain +2
+Zimmerman (D)	10/16 - 10/19	408 LV	4.9	44	42	McCain +2
+Rasmussen	9/29 - 9/29	500 LV	4.5	59	38	McCain +21
+Arizona State	9/25 - 9/28	975 RV	3.1	45	38	McCain +7
+Arizona State	8/14 - 8/16	402 RV	--	40	30	McCain +10
+Mason-Dixon	8/13 - 8/15	400 LV	5.0	47	41	McCain +6
+PPP (D)	7/30 - 7/31	1000 LV	--	52	40	McCain +12
+Rasmussen	7/30 - 7/30	500 LV	--	57	38	McCain +19
+Rasmussen	6/25 - 6/25	500 LV	4.5	49	40	McCain +9
+Arizona State	6/20 - 6/21	350 RV	--	38	28	McCain +10
+Behavior Res. Ctr	5/12 - 5/20	630 RV	--	50	39	McCain +11
+Arizona State	4/24 - 4/27	577 RV	--	47	38	McCain +9
+Rasmussen	4/15 - 4/15	500 LV	--	57	37	McCain +20
+N. Ariz. Univ.	3/30 - 4/8	369 LV	--	55	33	McCain +22
+SurveyUSA	2/26 - 2/28	613 RV	--	51	39	McCain +12
+Arizona State	2/21 - 2/24	522 RV	--	49	38	McCain +11
+ARG	10/28 - 10/31	600 LV	51	44	McCain +7
+Rasmussen	10/27 - 10/27	500 LV	54	44	McCain +10
+Research 2000	10/21 - 10/22	600 LV	52	41	McCain +11
+SurveyUSA	10/29 - 10/31	637 LV	3.9	36	60	Obama +24
+Field	10/18 - 10/28	966 LV	3.3	33	55	Obama +22
+Rasmussen	10/25 - 10/25	500 LV	4.5	34	61	Obama +27
+PPIC	10/12 - 10/19	1186 LV	3.0	33	56	Obama +23
+SurveyUSA	10/15 - 10/16	615 LV	4.0	35	59	Obama +24
+Rasmussen	10/9 - 10/9	500 LV	--	40	56	Obama +16
+SurveyUSA	10/4 - 10/5	670 LV	--	39	55	Obama +16
+SurveyUSA	9/23 - 9/25	661 LV	--	43	53	Obama +10
+Rasmussen	9/22 - 9/22	500 LV	--	39	56	Obama +17
+PPIC	9/9 - 9/16	1157 LV	--	40	50	Obama +10
+Field	9/5 - 9/14	830 LV	--	36	52	Obama +16
+Rasmussen	8/21 - 8/21	500 LV	4.5	41	54	Obama +13
+PPIC	8/12 - 8/19	1047 LV	--	39	48	Obama +9
+Rasmussen	7/24 - 7/24	500 LV	4.5	42	52	Obama +10
+PPIC	7/8 - 7/22	1401 LV	--	35	50	Obama +15
+Rasmussen	6/23 - 6/23	500 LV	--	30	58	Obama +28
+SurveyUSA	6/17 - 6/19	503 LV	--	41	53	Obama +12
+Field	5/16 - 5/27	914 LV	3.4	35	52	Obama +17
+LA Times/KTLA	5/20 - 5/21	705 RV	--	40	47	Obama +7
+SurveyUSA	5/16 - 5/18	600 RV	--	41	49	Obama +8
+PPIC	5/12 - 5/18	1086 LV	--	37	54	Obama +17
+Rasmussen	4/16 - 4/16	500 LV	--	43	50	Obama +7
+SurveyUSA	4/11 - 4/13	503 RV	--	43	50	Obama +7
+PPIC	3/11 - 3/18	1077 LV	--	40	49	Obama +9
+SurveyUSA	3/14 - 3/16	489 RV	--	40	54	Obama +14
+Rasmussen	3/12 - 3/12	500 LV	--	38	53	Obama +15
+SurveyUSA	2/26 - 2/28	593 RV	--	40	51	Obama +11
+SurveyUSA	2/15 - 2/17	512 RV	--	34	61	Obama +27
+CNN/Time	10/23 - 10/28	774 LV	3.5	45	53	Obama +8
+National Journal/FD	10/23 - 10/27	409 RV	4.9	44	48	Obama +4
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	46	50	Obama +4
+Politico/InAdv	10/26 - 10/26	636 LV	3.8	45	53	Obama +8
+Associated Press/GfK	10/22 - 10/26	626 LV	3.9	41	50	Obama +9
+Rocky Mtn News/CBS4	10/21 - 10/23	500 LV	4.4	40	52	Obama +12
+InAdv/PollPosition	10/20 - 10/20	576 LV	4.0	46	51	Obama +5
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	3.0	46	51	Obama +5
+Rasmussen	10/16 - 10/16	700 LV	4.0	45	52	Obama +7
+CNN/Time	10/11 - 10/14	762 LV	3.5	47	51	Obama +4
+Suffolk	10/10 - 10/13	600 LV	4.0	43	47	Obama +4
+Quinnipiac/WSJ/WP	10/8 - 10/12	1088 LV	3.0	43	52	Obama +9
+PPP (D)	10/8 - 10/10	1331 LV	2.7	42	52	Obama +10
+InAdv/PollPosition	10/6 - 10/6	485 LV	5.0	45	51	Obama +6
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	45	51	Obama +6
+Denver Post/Mason-Dixon	9/29 - 10/1	625 LV	4.0	44	44	Tie
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	48	49	Obama +1
+InAdv/PollPosition	9/23 - 9/23	505 LV	4.3	41	50	Obama +9
+Rasmussen	9/23 - 9/23	700 LV	4.0	47	50	Obama +3
+CNN/Time	9/21 - 9/23	794 LV	3.5	47	51	Obama +4
+Ciruli Assoc.	9/19 - 9/23	501 LV	4.4	43	44	Obama +1
+PPP (D)	9/20 - 9/21	1084 LV	3.0	44	51	Obama +7
+Quinnipiac/WSJ/WP	9/14 - 9/21	1418 LV	2.6	45	49	Obama +4
+InAdv/PollPosition	9/17 - 9/17	508 LV	4.3	41	51	Obama +10
+National Journal/FD	9/11 - 9/15	400 RV	4.9	44	45	Obama +1
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	48	46	McCain +2
+InAdv/PollPosition	9/10 - 9/10	501 LV	4.3	46	49	Obama +3
+PPP (D)	9/7 - 9/9	1078 LV	3.0	46	47	Obama +1
+FOX News/Rasmussen	9/7 - 9/7	500 LV	4.5	46	49	Obama +3
+CNN/Time	8/24 - 8/26	670 RV	3.5	47	46	McCain +1
+Suffolk	8/21 - 8/24	450 LV	4.6	39	44	Obama +5
+Quinnipiac	8/15 - 8/21	1060 LV	3.0	47	46	McCain +1
+Mason-Dixon	8/13 - 8/15	400 LV	5.0	43	46	Obama +3
+Rasmussen	8/13 - 8/13	700 LV	4.0	49	48	McCain +1
+Rocky Mtn News/CBS4	8/11 - 8/13	500 RV	4.4	44	41	McCain +3
+PPP (D)	8/5 - 8/7	933 LV	--	44	48	Obama +4
+Quinnipiac/WSJ/WP	7/14 - 7/22	1425 LV	--	46	44	McCain +2
+Rasmussen	7/21 - 7/21	500 LV	--	47	50	Obama +3
+PPP (D)	7/9 - 7/10	1050 LV	--	43	47	Obama +4
+Quinnipiac/WSJ/WP	6/17 - 6/24	1351 LV	--	44	49	Obama +5
+Rasmussen	6/17 - 6/17	500 LV	--	41	43	Obama +2
+Rasmussen	5/19 - 5/19	500 LV	--	42	48	Obama +6
+Rasmussen	4/16 - 4/16	500 LV	--	43	46	Obama +3
+Rasmussen	3/17 - 3/17	500 LV	--	46	46	Tie
+SurveyUSA	2/26 - 2/28	630 RV	--	41	50	Obama +9
+Rasmussen	2/11 - 2/11	500 LV	--	39	46	Obama +7
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	47	51	Obama +4
+ARG	10/28 - 10/30	600 LV	4.0	45	52	Obama +7
+PPP (D)	10/28 - 10/30	2023 LV	2.2	44	54	Obama +10
+Denver Post/Mason-Dixon	10/28 - 10/29	625 LV	4.0	44	49	Obama +5
+Marist	10/27 - 10/28	682 LV	4.0	45	51	Obama +6
+CNN/Time	10/23 - 10/28	774 LV	3.5	45	53	Obama +8
+National Journal/FD	10/23 - 10/27	409 RV	4.9	44	48	Obama +4
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	46	50	Obama +4
+Politico/InAdv	10/26 - 10/26	636 LV	3.8	45	53	Obama +8
+Associated Press/GfK	10/22 - 10/26	626 LV	3.9	41	50	Obama +9
+Rocky Mtn News/CBS4	10/21 - 10/23	500 LV	4.4	40	52	Obama +12
+InAdv/PollPosition	10/20 - 10/20	576 LV	4.0	46	51	Obama +5
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	3.0	46	51	Obama +5
+Rasmussen	10/16 - 10/16	700 LV	4.0	45	52	Obama +7
+CNN/Time	10/11 - 10/14	762 LV	3.5	47	51	Obama +4
+Suffolk	10/10 - 10/13	600 LV	4.0	43	47	Obama +4
+Quinnipiac/WSJ/WP	10/8 - 10/12	1088 LV	3.0	43	52	Obama +9
+PPP (D)	10/8 - 10/10	1331 LV	2.7	42	52	Obama +10
+InAdv/PollPosition	10/6 - 10/6	485 LV	5.0	45	51	Obama +6
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	45	51	Obama +6
+Denver Post/Mason-Dixon	9/29 - 10/1	625 LV	4.0	44	44	Tie
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	48	49	Obama +1
+InAdv/PollPosition	9/23 - 9/23	505 LV	4.3	41	50	Obama +9
+Rasmussen	9/23 - 9/23	700 LV	4.0	47	50	Obama +3
+CNN/Time	9/21 - 9/23	794 LV	3.5	47	51	Obama +4
+Ciruli Assoc.	9/19 - 9/23	501 LV	4.4	43	44	Obama +1
+PPP (D)	9/20 - 9/21	1084 LV	3.0	44	51	Obama +7
+Quinnipiac/WSJ/WP	9/14 - 9/21	1418 LV	2.6	45	49	Obama +4
+InAdv/PollPosition	9/17 - 9/17	508 LV	4.3	41	51	Obama +10
+National Journal/FD	9/11 - 9/15	400 RV	4.9	44	45	Obama +1
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	48	46	McCain +2
+InAdv/PollPosition	9/10 - 9/10	501 LV	4.3	46	49	Obama +3
+PPP (D)	9/7 - 9/9	1078 LV	3.0	46	47	Obama +1
+FOX News/Rasmussen	9/7 - 9/7	500 LV	4.5	46	49	Obama +3
+CNN/Time	8/24 - 8/26	670 RV	3.5	47	46	McCain +1
+Suffolk	8/21 - 8/24	450 LV	4.6	39	44	Obama +5
+Quinnipiac	8/15 - 8/21	1060 LV	3.0	47	46	McCain +1
+Mason-Dixon	8/13 - 8/15	400 LV	5.0	43	46	Obama +3
+Rasmussen	8/13 - 8/13	700 LV	4.0	49	48	McCain +1
+Rocky Mtn News/CBS4	8/11 - 8/13	500 RV	4.4	44	41	McCain +3
+PPP (D)	8/5 - 8/7	933 LV	--	44	48	Obama +4
+Quinnipiac/WSJ/WP	7/14 - 7/22	1425 LV	--	46	44	McCain +2
+Rasmussen	7/21 - 7/21	500 LV	--	47	50	Obama +3
+PPP (D)	7/9 - 7/10	1050 LV	--	43	47	Obama +4
+Quinnipiac/WSJ/WP	6/17 - 6/24	1351 LV	--	44	49	Obama +5
+Rasmussen	6/17 - 6/17	500 LV	--	41	43	Obama +2
+Rasmussen	5/19 - 5/19	500 LV	--	42	48	Obama +6
+Rasmussen	4/16 - 4/16	500 LV	--	43	46	Obama +3
+Rasmussen	3/17 - 3/17	500 LV	--	46	46	Tie
+SurveyUSA	2/26 - 2/28	630 RV	--	41	50	Obama +9
+Rasmussen	2/11 - 2/11	500 LV	--	39	46	Obama +7
+SurveyUSA	10/27 - 10/28	657 LV	33	63	Obama +30
+Rasmussen	10/10 - 10/10	500 LV	41	56	Obama +15
+West Chester Univ.	10/6 - 10/8	429 LV	38	56	Obama +18
+SurveyUSA	9/22 - 9/23	703 LV	37	57	Obama +20
+Rasmussen	9/13 - 9/13	500 LV	43	55	Obama +12
+SurveyUSA	2/26 - 2/28	608 RV	41	50	Obama +9
+Reuters/Zogby	10/31 - 11/3	678 LV	4.1	48	49	Obama +1
+SurveyUSA	10/31 - 11/3	691 LV	3.8	47	50	Obama +3
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	50	49	McCain +1
+PPP (D)	10/31 - 11/2	1717 LV	2.4	48	50	Obama +2
+Strategic Vision (R)	10/31 - 11/2	1200 LV	3.0	47	49	Obama +2
+Quinnipiac	10/27 - 11/2	1773 LV	2.3	45	47	Obama +2
+ARG	10/29 - 10/31	600 LV	4.0	46	50	Obama +4
+Mason-Dixon	10/29 - 10/30	625 LV	4.0	47	49	Obama +2
+CNN/Time	10/23 - 10/28	747 LV	3.5	47	51	Obama +4
+LA Times/Bloomberg	10/25 - 10/27	639 LV	3.0	43	50	Obama +7
+National Journal/FD	10/23 - 10/27	402 RV	4.9	44	48	Obama +4
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	47	51	Obama +4
+Suffolk	10/23 - 10/26	600 LV	--	44	49	Obama +5
+Reuters/Zogby	10/23 - 10/26	603 LV	4.1	47	47	Tie
+Quinnipiac	10/22 - 10/26	1435 LV	2.6	45	47	Obama +2
+Associated Press/GfK	10/22 - 10/26	600 LV	4.0	43	45	Obama +2
+Politico/InAdv	10/22 - 10/22	562 LV	5.0	47	48	Obama +1
+St. Petersburg Times	10/20 - 10/22	800 LV	3.5	42	49	Obama +7
+Strategic Vision (R)	10/20 - 10/22	1200 LV	3.0	48	46	McCain +2
+NBC/Mason-Dixon	10/20 - 10/21	625 LV	4.0	46	45	McCain +1
+Quinnipiac	10/16 - 10/21	1433 LV	2.6	44	49	Obama +5
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	3.0	49	48	McCain +1
+PPP (D)	10/16 - 10/19	1158 LV	2.9	47	48	Obama +1
+SurveyUSA	10/16 - 10/16	553 LV	4.3	49	47	McCain +2
+Research 2000	10/13 - 10/15	600 LV	4.0	45	49	Obama +4
+CNN/Time	10/11 - 10/14	765 LV	3.5	46	51	Obama +5
+InAdv/PollPosition	10/13 - 10/13	612 LV	3.8	44	48	Obama +4
+FOX News/Rasmussen	10/12 - 10/12	1000 LV	3.0	46	51	Obama +5
+Rasmussen	10/8 - 10/8	700 LV	4.0	47	50	Obama +3
+Strategic Vision (R)	10/6 - 10/8	1200 LV	3.0	44	52	Obama +8
+Research 2000	10/6 - 10/8	600 LV	4.0	44	49	Obama +5
+Mason-Dixon	10/4 - 10/6	625 LV	4.0	46	48	Obama +2
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	45	52	Obama +7
+Florida Chamber (R)	9/30 - 10/1	619 RV	4.0	45	42	McCain +3
+InAdv/PollPosition	9/30 - 9/30	532 LV	4.0	46	49	Obama +3
+CNN/Time	9/28 - 9/30	770 LV	3.5	47	51	Obama +4
+Suffolk/WSVN	9/27 - 9/30	600 LV	--	42	46	Obama +4
+Quinnipiac	9/27 - 9/29	836 LV	3.4	43	51	Obama +8
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	47	47	Tie
+SurveyUSA	9/27 - 9/28	599 LV	4.1	48	47	McCain +1
+PPP (D)	9/27 - 9/28	941 LV	3.2	46	49	Obama +3
+Rasmussen	9/24 - 9/24	700 LV	4.0	48	47	McCain +1
+Strategic Vision (R)	9/21 - 9/23	1200 LV	3.5	48	45	McCain +3
+FOX News/Rasmussen	9/21 - 9/21	500 LV	4.5	51	46	McCain +5
+NBC/Mason-Dixon	9/16 - 9/18	625 LV	4.0	45	47	Obama +2
+Sun-Sentinel/R2000	9/15 - 9/18	600 LV	4.0	46	45	McCain +1
+SurveyUSA	9/16 - 9/17	707 LV	3.8	51	45	McCain +6
+Miami Herald/SP Times	9/14 - 9/17	800 LV	3.5	47	45	McCain +2
+CNN/Time	9/14 - 9/16	907 RV	3.5	48	48	Tie
+National Journal/FD	9/11 - 9/15	400 RV	4.9	44	44	Tie
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	49	44	McCain +5
+InAdv/PollPosition	9/10 - 9/10	511 LV	4.3	50	42	McCain +8
+Quinnipiac	9/5 - 9/9	1032 LV	2.7	50	43	McCain +7
+FOX News/Rasmussen	9/7 - 9/7	500 LV	4.5	48	48	Tie
+PPP (D)	9/6 - 9/7	986 LV	3.1	50	45	McCain +5
+Mason-Dixon	8/25 - 8/26	625 LV	--	44	45	Obama +1
+Strategic Vision (R)	8/22 - 8/24	1200 LV	3.0	49	42	McCain +7
+Quinnipiac	8/17 - 8/24	1069 LV	--	47	43	McCain +4
+Kitchens Group (D)	8/18 - 8/21	605 LV	--	42	39	McCain +3
+Rasmussen	8/18 - 8/18	700 LV	4.5	48	46	McCain +2
+InAdv/PollPosition	8/11 - 8/11	418 LV	5.0	48	44	McCain +4
+SurveyUSA	8/1 - 8/3	679 LV	--	50	44	McCain +6
+PPP (D)	7/30 - 8/2	800 LV	--	47	44	McCain +3
+Quinnipiac	7/23 - 7/29	1238 LV	2.8	44	46	Obama +2
+McLaughlin (R)	7/20 - 7/28	1600 LV	--	45	40	McCain +5
+Rasmussen	7/22 - 7/22	500 LV	--	47	49	Obama +2
+Strategic Vision (R)	6/27 - 6/29	1200 LV	--	49	41	McCain +8
+PPP (D)	6/26 - 6/29	723 LV	--	44	46	Obama +2
+Rasmussen	6/26 - 6/26	500 LV	--	48	41	McCain +7
+Rasmussen	6/18 - 6/18	500 LV	--	47	39	McCain +8
+ARG*	6/13 - 6/17	600 LV	--	44	49	Obama +5
+Quinnipiac	6/9 - 6/16	1453 LV	2.6	43	47	Obama +4
+Quinnipiac	5/13 - 5/20	1419 RV	2.6	45	41	McCain +4
+Rasmussen	5/19 - 5/19	500 LV	--	50	40	McCain +10
+Quinnipiac	4/23 - 4/29	1411 RV	--	44	43	McCain +1
+Rasmussen	4/10 - 4/10	500 LV	--	53	38	McCain +15
+Quinnipiac	3/24 - 3/31	1136 RV	--	46	37	McCain +9
+PPP (D)	3/15 - 3/16	618 LV	--	50	39	McCain +11
+Rasmussen	3/12 - 3/12	500 LV	--	47	43	McCain +4
+SurveyUSA	2/26 - 2/28	632 RV	--	47	45	McCain +2
+Mason-Dixon	2/21 - 2/24	625 RV	--	47	37	McCain +10
+Rasmussen	2/16 - 2/16	500 LV	--	53	37	McCain +16
+Quinnipiac	2/6 - 2/12	1009 LV	--	41	39	McCain +2
+St. Petersburg Times	11/4 - 11/7	800 RV	--	47	45	McCain +2
+Quinnipiac	10/17 - 10/22	1025 RV	--	42	42	Tie
+Quinnipiac	10/1 - 10/8	869 RV	--	41	39	McCain +2
+Quinnipiac	9/3 - 9/9	1141 RV	--	42	39	McCain +3
+InAdv/PollPosition	11/2 - 11/2	512 LV	4.0	48	47	McCain +1
+PPP (D)	10/31 - 11/2	1253 LV	2.8	50	48	McCain +2
+Strategic Vision (R)	10/31 - 11/2	800 LV	3.0	50	46	McCain +4
+SurveyUSA	10/30 - 11/2	683 LV	3.8	52	45	McCain +7
+Rasmussen	10/30 - 10/30	500 LV	4.5	52	47	McCain +5
+Research 2000	10/28 - 10/30	600 LV	4.0	47	44	McCain +3
+CNN/Time	10/23 - 10/28	690 LV	3.5	52	47	McCain +5
+InAdv/PollPosition	10/27 - 10/27	637 LV	3.8	48	47	McCain +1
+InAdv/PollPosition	10/23 - 10/23	615 LV	3.8	47	48	Obama +1
+NBC/Mason-Dixon	10/22 - 10/23	625 LV	4.0	49	43	McCain +6
+Rasmussen	10/22 - 10/22	500 LV	4.5	51	46	McCain +5
+Strategic Vision (R)	10/20 - 10/22	800 LV	3.0	51	45	McCain +6
+Research 2000	10/14 - 10/15	600 LV	4.0	49	43	McCain +6
+CNN/Time	10/11 - 10/14	718 LV	3.5	53	45	McCain +8
+SurveyUSA	10/11 - 10/12	547 LV	4.3	51	43	McCain +8
+InAdv/PollPosition	10/9 - 10/9	531 LV	4.0	49	46	McCain +3
+Rasmussen	10/7 - 10/7	500 LV	4.5	54	45	McCain +9
+Strategic Vision (R)	10/5 - 10/7	800 LV	3.0	50	43	McCain +7
+Research 2000	9/29 - 10/1	600 LV	4.0	50	43	McCain +7
+InAdv/PollPosition	9/30 - 9/30	561 LV	4.0	50	44	McCain +6
+SurveyUSA	9/28 - 9/29	677 LV	3.8	52	44	McCain +8
+InAdv/PollPosition	9/17 - 9/17	503 LV	4.3	51	43	McCain +8
+Rasmussen	9/16 - 9/16	500 LV	--	54	43	McCain +11
+SurveyUSA	9/14 - 9/16	684 LV	3.8	57	41	McCain +16
+InAdv/PollPosition	9/10 - 9/10	506 LV	4.0	56	38	McCain +18
+Strategic Vision (R)	9/7 - 9/9	800 LV	--	52	39	McCain +13
+Rasmussen	8/14 - 8/14	500 LV	--	53	44	McCain +9
+Rasmussen	7/17 - 7/17	500 LV	4.5	53	42	McCain +11
+InAdv/PollPosition	7/2 - 7/2	502 LV	--	46	44	McCain +2
+Strategic Vision (R)	6/27 - 6/29	800 LV	--	51	43	McCain +8
+Rasmussen	6/26 - 6/26	800 LV	4.0	53	43	McCain +10
+InAdv/PollPosition	6/18 - 6/18	408 LV	5.0	44	43	McCain +1
+Rasmussen	6/4 - 6/4	500 LV	--	51	41	McCain +10
+Insider Advantage	5/20 - 5/20	652 LV	3.6	45	35	McCain +10
+Strategic Vision (R)	5/9 - 5/11	800 LV	--	54	40	McCain +14
+Rasmussen	5/6 - 5/6	500 LV	--	53	39	McCain +14
+Rasmussen	3/20 - 3/20	500 LV	--	53	40	McCain +13
+SurveyUSA	2/26 - 2/28	592 RV	--	54	41	McCain +13
+Rasmussen	9/20 - 9/20	500 LV	27	68	Obama +41
+SurveyUSA	2/26 - 2/28	592 RV	31	61	Obama +30Rasmussen	9/9 - 9/9	500 LV	68	29	McCain +39
+Greg Smith & Assoc.	8/18 - 8/22	600 LV	52	29	McCain +23
+Research 2000	7/28 - 7/30	500 LV	53	37	McCain +16
+SurveyUSA	2/26 - 2/28	608 RV	52	39	McCain +13Rasmussen	11/1 - 11/1	500 LV	38	60	Obama +22
+Research 2000	10/20 - 10/23	800 LV	35	59	Obama +24
+Big10 Battleground	10/19 - 10/22	572 LV	32	61	Obama +29
+Chicago Tribune	10/16 - 10/18	500 LV	32	56	Obama +24
+Rasmussen	10/13 - 10/13	500 LV	39	56	Obama +17
+Research 2000	9/15 - 9/18	800 LV	36	56	Obama +20
+Rasmussen	9/17 - 9/17	500 LV	40	56	Obama +16
+Big10 Battleground	9/14 - 9/17	628 RV	37	53	Obama +16
+Rasmussen	8/12 - 8/12	500 LV	40	55	Obama +15
+Rasmussen	7/8 - 7/8	500 LV	41	52	Obama +11
+SurveyUSA	2/26 - 2/28	600 RV	31	60	Obama +29
+Research 2000	1/22 - 1/24	800 LV	37	58	Obama +21
+Reuters/Zogby	10/31 - 11/3	585 LV	4.1	50	45	McCain +5
+PPP (D)	10/31 - 11/2	2634 LV	1.9	48	49	Obama +1
+ARG	10/28 - 10/31	600 LV	4.0	48	48	Tie
+Downs Center/SUSA	10/27 - 10/30	900 LV	3.3	47	47	Tie
+Rasmussen	10/28 - 10/29	500 LV	4.5	49	46	McCain +3
+Indy Star/Selzer	10/26 - 10/28	606 LV	4.0	45	46	Obama +1
+Research 2000	10/24 - 10/28	800 LV	3.5	47	47	Tie
+Reuters/Zogby	10/23 - 10/26	601 LV	4.1	50	44	McCain +6
+Research 2000	10/23 - 10/25	600 LV	4.0	47	48	Obama +1
+Howey-Gauge	10/23 - 10/24	600 LV	4.1	47	45	McCain +2
+SurveyUSA	10/21 - 10/22	631 LV	4.0	45	49	Obama +4
+Big10 Battleground	10/19 - 10/22	586 LV	4.2	41	51	Obama +10
+PPP (D)	10/18 - 10/19	1411 LV	2.6	46	48	Obama +2
+Rasmussen	10/7 - 10/7	500 LV	4.5	50	43	McCain +7
+CNN/Time	10/3 - 10/6	677 LV	4.0	51	46	McCain +5
+Research 2000	9/29 - 10/3	800 LV	3.5	46	46	Tie
+Research 2000	9/28 - 9/30	600 LV	4.0	46	45	McCain +1
+SurveyUSA	9/28 - 9/29	687 LV	3.8	48	45	McCain +3
+Rasmussen	9/17 - 9/18	500 LV	4.5	49	47	McCain +2
+Big10 Battleground	9/14 - 9/17	612 RV	4.0	47	43	McCain +4
+Indy Star/Selzer	9/14 - 9/16	600 LV	4.0	44	47	Obama +3
+CNN/Time	9/13 - 9/14	890 RV	3.5	51	45	McCain +6
+Howey-Gauge	8/29 - 8/30	600 RV	--	45	43	McCain +2
+Rasmussen	8/19 - 8/21	500 LV	4.0	49	43	McCain +6
+SurveyUSA	8/16 - 8/18	645 LV	--	50	44	McCain +6
+SurveyUSA	6/21 - 6/23	627 LV	--	47	48	Obama +1
+Indiana Legislative Insight	5/27 - 6/1	601 RV	4.0	47	39	McCain +8
+Downs Center	4/28 - 4/30	1274 LV	--	47	48	Obama +1
+Research 2000	4/21 - 4/24	600 LV	--	51	43	McCain +8
+Indy Star/Selzer	4/20 - 4/23	500 A	4.4	41	49	Obama +8
+Downs Center	4/14 - 4/16	LV	--	51	44	McCain +7
+SurveyUSA	2/26 - 2/28	575 RV	--	50	41	McCain +9
+Des Moines Register	10/28 - 10/31	814 LV	3.4	37	54	Obama +17
+SurveyUSA	10/28 - 10/29	658 LV	3.9	40	55	Obama +15
+Research 2000	10/27 - 10/29	600 LV	4.0	39	53	Obama +14
+Marist	10/23 - 10/24	645 LV	4.0	42	52	Obama +10
+Rasmussen	10/23 - 10/23	700 LV	4.0	44	52	Obama +8
+NBC/Mason-Dixon	10/22 - 10/23	625 LV	4.0	40	51	Obama +11
+Big10 Battleground	10/19 - 10/22	586 LV	4.2	39	52	Obama +13
+Quad City-Times/R2000	10/19 - 10/22	600 LV	4.0	39	54	Obama +15
+SurveyUSA	10/8 - 10/9	692 LV	3.8	41	54	Obama +13
+Research 2000	9/29 - 9/30	600 LV	4.0	39	55	Obama +16
+Rasmussen	9/25 - 9/25	700 LV	4.0	43	51	Obama +8
+Marist	9/18 - 9/21	467 LV	4.0	41	51	Obama +10
+SurveyUSA	9/17 - 9/18	702 LV	3.8	43	54	Obama +11
+Quad-City Times/R2000	9/15 - 9/17	600 LV	4.0	39	53	Obama +14
+Big10 Battleground	9/14 - 9/17	643 RV	4.0	45	45	Tie
+Des Moines Register	9/8 - 9/10	616 LV	4.0	40	52	Obama +12
+CNN/Time	8/31 - 9/2	828 RV	--	40	55	Obama +15
+Univ. of Iowa	8/4 - 8/13	617 LV	--	43	50	Obama +7
+Rasmussen	8/7 - 8/7	700 LV	4.0	44	49	Obama +5
+Rasmussen	7/10 - 7/10	500 LV	--	41	51	Obama +10
+SurveyUSA	6/13 - 6/16	528 LV	--	45	49	Obama +4
+Rasmussen	6/10 - 6/10	500 LV	--	38	45	Obama +7
+SurveyUSA	5/21 - 5/22	600 RV	--	38	47	Obama +9
+Rasmussen	5/13 - 5/13	500 LV	--	42	44	Obama +2
+Research 2000	4/21 - 4/23	600 LV	--	41	49	Obama +8
+SurveyUSA	4/11 - 4/13	553 RV	--	42	49	Obama +7
+Rasmussen	3/31 - 3/31	500 LV	--	42	46	Obama +4
+SurveyUSA	2/26 - 2/28	619 RV	--	41	50	Obama +9
+Rasmussen	2/18 - 2/18	500 LV	--	41	44	Obama +3
+SurveyUSA	2/15 - 2/17	563 RV	--	41	51	Obama +10
+SurveyUSA	1/4 - 1/6	543 RV	--	38	55	Obama +17
+SurveyUSA	12/13 - 12/15	539 RV	--	39	51	Obama +12
+Research 2000	11/12 - 11/14	600 LV	--	37	47	Obama +10
+SurveyUSA	11/9 - 11/11	546 RV	--	42	50	Obama +8
+Research 2000	12/18 - 12/20	600 LV	--	39	42	Obama +3
+SurveyUSA	10/27 - 10/28	626 LV	3.9	58	37	McCain +21
+SurveyUSA	10/21 - 10/22	613 LV	4.0	53	41	McCain +12
+Rasmussen	10/13 - 10/13	500 LV	4.5	54	41	McCain +13
+SurveyUSA	9/21 - 9/22	666 LV	3.9	53	41	McCain +12
+Rasmussen	9/18 - 9/18	500 LV	4.5	58	38	McCain +20
+SurveyUSA	8/18 - 8/20	641 LV	3.9	58	35	McCain +23
+Rasmussen	8/11 - 8/11	500 LV	4.5	55	41	McCain +14
+Rasmussen	7/14 - 7/14	500 LV	--	58	35	McCain +23
+TargetPoint (R)	6/27 - 7/1	3004 RV	--	49	36	McCain +13
+Rasmussen	6/11 - 6/11	500 LV	--	47	37	McCain +10
+Cooper & Secrest (D)*	6/5 - 6/8	808 LV	--	45	41	McCain +4
+Research 2000	6/2 - 6/4	600 LV	--	51	40	McCain +11
+SurveyUSA	5/16 - 5/18	600 RV	--	49	39	McCain +10
+Rasmussen	5/13 - 5/13	500 LV	--	55	34	McCain +21
+SurveyUSA	4/11 - 4/13	516 RV	--	54	37	McCain +17
+SurveyUSA	2/26 - 2/28	598 RV	--	50	41	McCain +9
+SurveyUSA	2/15 - 2/17	514 RV	--	50	44	McCain +6
+SurveyUSA	12/13 - 12/15	529 RV	--	56	36	McCain +20SurveyUSA	10/29 - 11/1	616 LV	56	40	McCain +16
+Rasmussen	10/29 - 10/29	500 LV	55	43	McCain +12
+Research 2000	10/27 - 10/29	600 LV	56	39	McCain +17
+Mason-Dixon	10/27 - 10/29	817 LV	51	42	McCain +9
+Rasmussen	10/21 - 10/21	500 LV	52	44	McCain +8
+Research 2000	10/19 - 10/21	600 LV	55	39	McCain +16
+SurveyUSA	10/18 - 10/20	535 LV	54	41	McCain +13
+Research 2000	10/14 - 10/16	600 LV	53	39	McCain +14
+Rasmussen	9/30 - 9/30	500 LV	52	42	McCain +10
+Mason-Dixon	9/22 - 9/25	717 LV	53	41	McCain +12
+SurveyUSA	9/21 - 9/22	672 LV	57	38	McCain +19
+Research 2000	9/15 - 9/17	600 LV	55	37	McCain +18
+SurveyUSA	8/9 - 8/11	636 LV	55	37	McCain +18
+Research 2000	7/28 - 7/30	600 LV	56	35	McCain +21
+Rasmussen	7/29 - 7/29	500 LV	52	43	McCain +9
+SurveyUSA	6/13 - 6/16	626 LV	53	41	McCain +12
+Rasmussen	5/22 - 5/22	500 LV	57	32	McCain +25
+Research 2000	5/7 - 5/9	600 LV	58	33	McCain +25
+SurveyUSA	4/11 - 4/13	538 RV	63	29	McCain +34
+SurveyUSA	3/14 - 3/16	535 RV	64	28	McCain +36
+SurveyUSA	2/26 - 2/28	605 RV	54	33	McCain +21
+SurveyUSA	12/13 - 12/15	534 RV	53	35	McCain +18
+SE Louisiana	10/20 - 10/23	503 RV	51	38	McCain +13
+Rasmussen	10/21 - 10/21	500 LV	57	41	McCain +16
+Rasmussen	9/25 - 9/25	500 LV	55	40	McCain +15
+Rasmussen	8/17 - 8/17	500 LV	57	39	McCain +18
+Rasmussen	7/9 - 7/9	500 LV	56	37	McCain +19
+S. Media/Op. Research	6/26 - 6/28	600 LV	52	36	McCain +16
+Rasmussen	5/28 - 5/28	500 LV	50	41	McCain +9
+S. Media/Op. Research	3/26 - 4/9	600 LV	51	35	McCain +16
+SurveyUSA	2/26 - 2/28	599 RV	54	39	McCain +15Rasmussen	11/1 - 11/1	500 LV	43	56	Obama +13
+SurveyUSA	10/19 - 10/20	642 LV	39	54	Obama +15
+Critical Insights	10/16 - 10/19	443 LV	35	56	Obama +21
+Pan Atlantic SMS	10/13 - 10/16	400 LV	39	51	Obama +12
+Research 2000	10/14 - 10/15	600 LV	38	55	Obama +17
+Rasmussen	10/2 - 10/2	500 LV	46	51	Obama +5
+SurveyUSA	9/22 - 9/24	675 LV	44	49	Obama +5
+Rasmussen	9/17 - 9/17	500 LV	46	50	Obama +4
+Research 2000	9/8 - 9/10	600 LV	38	52	Obama +14
+Rasmussen	8/12 - 8/12	500 LV	39	53	Obama +14
+Rasmussen	7/17 - 7/17	500 LV	41	49	Obama +8
+Critical Insights	6/1 - 6/27	602 A	31	51	Obama +20
+Pan Atlantic SMS	6/10 - 6/18	400 RV	26	37	Obama +11
+Rasmussen	6/16 - 6/16	500 LV	33	55	Obama +22
+Rasmussen	5/14 - 5/14	500 LV	38	51	Obama +13
+Rasmussen	4/1 - 4/1	500 LV	39	49	Obama +10
+SurveyUSA	2/26 - 2/28	639 RV	39	53	Obama +14
+Rasmussen	9/20 - 9/20	500 LV	37	60	Obama +23
+Gonzales Res.	8/29 - 9/5	833 LV	38	52	Obama +14
+Rasmussen	8/18 - 8/18	500 LV	43	53	Obama +10
+Gonzales Res.	2/23 - 3/1	807 LV	37	51	Obama +14
+SurveyUSA	2/26 - 2/28	620 RV	40	53	Obama +13
+Rasmussen	1/2 - 1/2	500 LV	42	48	Obama +6SurveyUSA	10/27 - 10/28	658 LV	39	56	Obama +17
+Suffolk/7News	10/20 - 10/22	400 RV	34	53	Obama +19
+SurveyUSA	10/13 - 10/14	624 LV	35	59	Obama +24
+Rasmussen	10/13 - 10/13	500 LV	34	62	Obama +28
+SurveyUSA	9/22 - 9/23	679 LV	39	55	Obama +16
+Rasmussen	8/5 - 8/5	500 LV	38	54	Obama +16
+Suffolk/7News	7/31 - 8/3	--	38	47	Obama +9
+Rasmussen	6/30 - 6/30	500 LV	33	53	Obama +20
+SurveyUSA	6/25 - 6/27	607 LV	40	53	Obama +13
+Suffolk/7News	6/8 - 6/10	500 RV	30	53	Obama +23
+Rasmussen	5/29 - 5/29	500 LV	38	51	Obama +13
+SurveyUSA	5/16 - 5/18	600 RV	41	46	Obama +5
+Rasmussen	4/23 - 4/23	500 LV	39	51	Obama +12
+SurveyUSA	4/11 - 4/13	546 RV	46	48	Obama +2
+Rasmussen	3/18 - 3/18	500 LV	42	49	Obama +7
+SurveyUSA	3/14 - 3/16	510 RV	47	47	Tie
+SurveyUSA	2/26 - 2/28	636 RV	42	49	Obama +7
+SurveyUSA	1/20 - 1/21	562 RV	50	45	McCain +5
+SurveyUSA	12/12 - 12/21	542 RV	45	47	Obama +2
+Mitchell Research	11/3 - 11/3	400 LV	5.0	38	54	Obama +16
+Detroit Free Press	10/28 - 10/31	616 LV	4.0	37	53	Obama +16
+PPP (D)	10/28 - 10/30	1532 LV	2.5	42	55	Obama +13
+Mitchell Research	10/26 - 10/30	600 LV	4.0	40	54	Obama +14
+Strategic Vision (R)	10/27 - 10/29	1200 LV	3.0	41	54	Obama +13
+Rasmussen	10/28 - 10/28	500 LV	4.5	43	53	Obama +10
+Det. News (EPIC/MRA)	10/26 - 10/28	600 LV	4.0	38	50	Obama +12
+Big10 Battleground	10/19 - 10/22	562 LV	4.2	36	58	Obama +22
+Det. News (EPIC/MRA)	10/19 - 10/20	400 LV	4.9	37	51	Obama +14
+Quinnipiac/WSJ/WP	10/8 - 10/12	1043 LV	3.0	38	54	Obama +16
+Rasmussen	10/8 - 10/8	500 LV	4.5	40	56	Obama +16
+Rossman Group/MIRS (D)	10/1 - 10/4	600 RV	--	39	44	Obama +5
+PPP (D)	9/29 - 10/1	731 LV	3.6	41	51	Obama +10
+Detroit Free Press	9/22 - 9/24	602 LV	4.0	38	51	Obama +13
+Strategic Vision (R)	9/22 - 9/24	1200 LV	3.0	45	48	Obama +3
+CNN/Time	9/21 - 9/23	755 LV	3.5	46	51	Obama +5
+NBC/Mason-Dixon	9/18 - 9/23	625 LV	4.0	46	46	Tie
+Det. News (EPIC/MRA)	9/20 - 9/22	400 LV	4.9	38	48	Obama +10
+National Journal/FD	9/18 - 9/22	406 RV	4.9	39	47	Obama +8
+FOX News/Rasmussen	9/21 - 9/21	500 LV	4.5	44	51	Obama +7
+Quinnipiac/WSJ/WP	9/14 - 9/21	1346 LV	2.7	44	48	Obama +4
+MRG (R)	9/15 - 9/20	600 LV	4.1	46	43	McCain +3
+Marist	9/16 - 9/17	599 LV	3.5	43	52	Obama +9
+Big10 Battleground	9/14 - 9/17	600 RV	4.0	44	48	Obama +4
+Det. News (EPIC/MRA)	9/14 - 9/17	602 LV	4.0	42	43	Obama +1
+InAdv/PollPosition	9/10 - 9/10	503 LV	4.3	45	44	McCain +1
+Rasmussen	9/10 - 9/10	700 LV	4.0	46	51	Obama +5
+CNN/Time	9/7 - 9/9	966 RV	3.0	45	49	Obama +4
+PPP (D)	9/6 - 9/7	1147 LV	2.9	46	47	Obama +1
+Strategic Vision (R)	9/5 - 9/7	1200 LV	3.0	44	45	Obama +1
+Det. News (EPIC/MRA)	8/18 - 8/21	600 LV	4.0	41	43	Obama +2
+Detroit Free Press	8/17 - 8/20	600 LV	4.0	39	46	Obama +7
+Rasmussen	8/7 - 8/7	500 LV	4.5	45	49	Obama +4
+PPP (D)	7/23 - 7/27	883 LV	--	43	46	Obama +3
+Quinnipiac/WSJ/WP	7/14 - 7/22	1684 LV	--	42	46	Obama +4
+Democracy Corps (D)	7/14 - 7/21	764 LV	--	43	48	Obama +5
+Detroit News	7/13 - 7/16	600 LV	4.0	41	43	Obama +2
+Rasmussen	7/10 - 7/10	500 LV	--	42	50	Obama +8
+Quinnipiac/WSJ/WP	6/17 - 6/24	1411 LV	--	42	48	Obama +6
+PPP (D)	6/21 - 6/22	571 LV	--	39	48	Obama +9
+Rasmussen	6/9 - 6/9	500 LV	--	42	45	Obama +3
+SurveyUSA	5/27 - 5/27	529 RV	--	41	37	McCain +4
+Detroit News	5/19 - 5/22	600 RV	--	44	40	McCain +4
+Rasmussen	5/7 - 5/7	500 LV	4.5	45	44	McCain +1
+EPIC-MRA	4/3 - 4/8	600 LV	--	41	43	Obama +2
+Rasmussen	3/25 - 3/25	500 LV	--	43	42	McCain +1
+Rasmussen	3/10 - 3/10	500 LV	--	44	41	McCain +3
+SurveyUSA	2/26 - 2/28	643 RV	--	45	46	Obama +1
+Rasmussen	2/17 - 2/17	500 LV	--	39	47	Obama +8
+SurveyUSA	10/30 - 11/1	669 LV	3.9	46	49	Obama +3
+Star Tribune	10/29 - 10/31	933 LV	4.1	42	53	Obama +11
+PPP (D)	10/28 - 10/30	1050 LV	3.0	41	57	Obama +16
+Research 2000	10/27 - 10/29	600 LV	4.0	38	53	Obama +15
+Rasmussen	10/28 - 10/28	500 LV	4.5	43	55	Obama +12
+NBC/Mason-Dixon	10/27 - 10/28	625 LV	4.0	40	48	Obama +8
+Minn. Pub. Radio	10/24 - 10/28	451 LV	4.6	37	56	Obama +19
+Rasmussen	10/22 - 10/22	500 LV	4.5	41	56	Obama +15
+Big10 Battleground	10/19 - 10/22	583 LV	4.2	38	57	Obama +19
+St. Cloud State U.	10/14 - 10/22	509 A	4.6	37	42	Obama +5
+National Journal/FD	10/16 - 10/20	402 RV	4.9	40	50	Obama +10
+SurveyUSA	10/16 - 10/18	655 LV	3.9	44	50	Obama +6
+Star Tribune	10/16 - 10/17	1049 LV	3.8	41	52	Obama +11
+Research 2000	10/15 - 10/16	600 LV	4.0	39	52	Obama +13
+Quinnipiac/WSJ/WP	10/8 - 10/12	1043 LV	3.0	40	51	Obama +11
+Rasmussen	10/7 - 10/7	500 LV	4.5	45	52	Obama +7
+ARG	10/4 - 10/7	600 LV	4.0	46	47	Obama +1
+Minn. Pub. Radio	10/3 - 10/5	418 LV	4.8	40	54	Obama +14
+Star Tribune	9/30 - 10/2	1084 LV	3.7	37	55	Obama +18
+SurveyUSA	9/30 - 10/1	725 LV	3.7	47	46	McCain +1
+CNN/Time	9/28 - 9/30	849 LV	3.5	43	54	Obama +11
+Quinnipiac/WSJ/WP	9/14 - 9/21	1301 LV	2.7	45	47	Obama +2
+Rasmussen	9/18 - 9/18	500 LV	4.5	44	52	Obama +8
+Big10 Battleground	9/14 - 9/17	610 RV	4.0	45	47	Obama +2
+Star Tribune	9/10 - 9/12	1106 LV	3.9	45	45	Tie
+SurveyUSA	9/10 - 9/11	734 LV	3.7	47	49	Obama +2
+CNN/Time	8/31 - 9/2	742 RV	3.5	41	53	Obama +12
+Minn. Pub. Radio	8/7 - 8/17	763 LV	--	38	48	Obama +10
+SurveyUSA	8/13 - 8/14	682 LV	3.8	45	47	Obama +2
+Rasmussen	8/13 - 8/13	700 LV	4.0	45	49	Obama +4
+Rasmussen	7/22 - 7/22	500 LV	--	39	52	Obama +13
+Quinnipiac/WSJ/WP	7/14 - 7/22	1261 LV	--	44	46	Obama +2
+Rasmussen	7/10 - 7/10	500 LV	--	37	54	Obama +17
+Quinnipiac/WSJ/WP	6/17 - 6/24	1572 LV	--	37	54	Obama +17
+SurveyUSA	6/13 - 6/16	543 LV	--	46	47	Obama +1
+Rasmussen	6/11 - 6/11	500 LV	4.0	39	52	Obama +13
+Rasmussen	5/22 - 5/22	500 LV	4.5	38	53	Obama +15
+SurveyUSA	5/16 - 5/18	600 RV	--	42	47	Obama +5
+Star Tribune	5/12 - 5/15	1117 RV	--	38	51	Obama +13
+Rasmussen	4/22 - 4/22	500 LV	--	38	52	Obama +14
+SurveyUSA	4/11 - 4/13	535 RV	--	43	49	Obama +6
+Rasmussen	3/19 - 3/19	500 LV	--	43	47	Obama +4
+SurveyUSA	3/14 - 3/16	532	--	47	46	McCain +1
+SurveyUSA	2/26 - 2/28	609 RV	--	42	49	Obama +7
+Rasmussen	2/16 - 2/16	500 LV	--	38	53	Obama +15
+Minn. Pub. Radio	1/20 - 1/27	917 A	--	37	50	Obama +13
+SurveyUSA	1/20 - 1/21	550 RV	--	49	42	McCain +7
+SurveyUSA	12/13 - 12/15	556 RV	--	50	41	McCain +9
+Research 2000	10/27 - 10/29	600 LV	4.0	53	40	McCain +13
+Rasmussen	10/27 - 10/27	500 LV	4.5	53	45	McCain +8
+Press Register	10/13 - 10/23	405 LV	5.0	46	33	McCain +13
+Research 2000	10/14 - 10/15	600 LV	4.0	50	40	McCain +10
+Rasmussen	9/30 - 9/30	500 LV	4.5	52	44	McCain +8
+Research 2000	9/8 - 9/10	600 LV	4.0	55	37	McCain +18
+Rasmussen	8/21 - 8/21	500 LV	4.5	56	43	McCain +13
+Rasmussen	7/28 - 7/28	500 LV	4.0	54	42	McCain +12
+Research 2000	7/21 - 7/23	600 LV	--	51	42	McCain +9
+Rasmussen	6/24 - 6/24	500 LV	4.0	50	44	McCain +6
+Rasmussen	5/27 - 5/27	500 LV	4.0	50	44	McCain +6
+Research 2000	5/19 - 5/21	600 LV	--	54	39	McCain +15
+SurveyUSA	2/26 - 2/28	622	4.0	54	41	McCain +13
+Reuters/Zogby	10/31 - 11/3	585 LV	4.1	49	49	Tie
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	49	49	Tie
+PPP (D)	10/31 - 11/2	1343 LV	2.7	49	49	Tie
+SurveyUSA	10/30 - 11/2	674 LV	3.9	48	48	Tie
+Mason-Dixon	10/29 - 10/30	625 LV	4.0	47	46	McCain +1
+ARG	10/28 - 10/30	600 LV	4.0	48	48	Tie
+Politico/InAdv	10/29 - 10/29	814 LV	3.4	50	47	McCain +3
+CNN/Time	10/23 - 10/28	774 LV	3.5	50	48	McCain +2
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	47	48	Obama +1
+SurveyUSA	10/25 - 10/26	672 LV	3.9	48	48	Tie
+Reuters/Zogby	10/23 - 10/26	601 LV	4.1	46	48	Obama +2
+NBC/Mason-Dixon	10/22 - 10/23	625 LV	4.0	46	45	McCain +1
+Post-Dispatch/R2000	10/20 - 10/23	800 LV	3.5	47	48	Obama +1
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	3.0	44	49	Obama +5
+Suffolk	10/17 - 10/19	600 LV	4.0	45	44	McCain +1
+Rasmussen	10/15 - 10/15	700 LV	4.5	46	52	Obama +6
+CNN/Time	10/11 - 10/14	763 LV	3.5	49	48	McCain +1
+FOX News/Rasmussen	10/12 - 10/12	1000 LV	3.0	47	50	Obama +3
+SurveyUSA	10/11 - 10/12	546 LV	4.3	43	51	Obama +8
+PPP (D)	10/11 - 10/12	1009 LV	3.1	46	48	Obama +2
+ARG	10/4 - 10/6	600 LV	4.0	49	46	McCain +3
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	47	50	Obama +3
+CNN/Time	9/28 - 9/30	744 LV	3.5	48	49	Obama +1
+SurveyUSA	9/23 - 9/24	705 LV	3.8	48	46	McCain +2
+Post-Dispatch/R2000	9/22 - 9/24	800 LV	3.5	47	46	McCain +1
+Post-Dispatch/R2000	9/15 - 9/18	800 LV	3.5	49	45	McCain +4
+Rasmussen	9/11 - 9/11	700 LV	4.0	51	46	McCain +5
+CNN/Time	9/7 - 9/9	940 RV	3.0	50	45	McCain +5
+PPP (D)	8/13 - 8/17	750 LV	3.6	50	40	McCain +10
+Rasmussen	8/7 - 8/7	500 LV	4.5	50	44	McCain +6
+SurveyUSA	7/29 - 7/31	1459 LV	3.0	49	44	McCain +5
+Research 2000	7/7 - 7/10	800 LV	3.5	43	48	Obama +5
+Rasmussen	7/7 - 7/7	500 LV	--	50	45	McCain +5
+PPP (D)	7/2 - 7/5	723 LV	--	47	44	McCain +3
+SurveyUSA	6/20 - 6/22	543 LV	--	50	43	McCain +7
+Rasmussen	6/3 - 6/3	500 LV	--	42	43	Obama +1
+SurveyUSA	5/16 - 5/18	1523 LV	--	48	45	McCain +3
+Rasmussen	5/6 - 5/6	500 LV	--	47	41	McCain +6
+SurveyUSA	4/11 - 4/13	542 RV	--	50	42	McCain +8
+Rasmussen	3/24 - 3/24	500 LV	--	53	38	McCain +15
+SurveyUSA	3/14 - 3/16	536 RV	--	53	39	McCain +14
+SurveyUSA	2/26 - 2/28	632 RV	--	48	42	McCain +6
+Rasmussen	2/11 - 2/11	500 LV	--	42	40	McCain +2
+SurveyUSA	1/11 - 1/13	562 RV	--	51	40	McCain +11
+SurveyUSA	12/13 - 12/15	547 RV	--	44	47	Obama +3
+PPP (D)	10/31 - 11/2	2734 LV	47	48	Obama +1
+Research 2000	10/28 - 10/30	600 LV	48	44	McCain +4
+ARG	10/28 - 10/30	600 LV	49	46	McCain +3
+Rasmussen	10/29 - 10/29	500 LV	50	46	McCain +4
+NBC/Mason-Dixon	10/23 - 10/25	625 LV	48	44	McCain +4
+Montana State U.	10/16 - 10/20	403 LV	40	44	Obama +4
+Research 2000	10/15 - 10/16	600 LV	49	45	McCain +4
+ARG	10/6 - 10/8	600 LV	50	45	McCain +5
+Rasmussen	10/1 - 10/1	500 LV	52	44	McCain +8
+Research 2000	9/22 - 9/24	600 LV	52	39	McCain +13
+CNN/Time	9/21 - 9/23	737 LV	54	43	McCain +11
+Rasmussen	9/8 - 9/8	700 LV	53	42	McCain +11
+Rasmussen	7/29 - 7/29	500 LV	47	47	Tie
+Rasmussen	7/1 - 7/1	500 LV	43	48	Obama +5
+Mason-Dixon	5/19 - 5/21	625 LV	47	39	McCain +8
+Rasmussen	4/6 - 4/6	500 LV	48	43	McCain +5
+SurveyUSA	2/26 - 2/28	640 RV	47	39	McCain +8
+Rasmussen	9/30 - 9/30	500 LV	56	37	McCain +19
+Rasmussen	7/28 - 7/28	500 LV	55	36	McCain +19
+Rasmussen	6/23 - 6/23	500 LV	52	36	McCain +16
+Research 2000	5/19 - 5/21	600 LV	57	29	McCain +28
+SurveyUSA	5/16 - 5/18	600 RV	49	40	McCain +9
+Rasmussen	5/15 - 5/15	500 LV	50	39	McCain +11
+SurveyUSA	2/26 - 2/28	623 RV	45	42	McCain +3Reuters/Zogby	10/31 - 11/3	586 LV	4.1	42	53	Obama +11
+ARG	10/31 - 11/3	600 LV	4.0	47	52	Obama +5
+PPP (D)	10/31 - 11/2	1243 LV	2.8	47	51	Obama +4
+LVRJ/Mason-Dixon	10/28 - 10/29	625 LV	4.0	43	47	Obama +4
+Reno Gazette-Journal	10/25 - 10/28	600 LV	4.0	45	50	Obama +5
+CNN/Time	10/23 - 10/28	684 LV	3.5	45	52	Obama +7
+Rasmussen	10/27 - 10/27	700 LV	4.0	46	50	Obama +4
+Suffolk	10/26 - 10/26	450 LV	4.6	40	50	Obama +10
+Reuters/Zogby	10/23 - 10/26	601 LV	4.1	44	48	Obama +4
+Associated Press/GfK	10/22 - 10/26	628 LV	3.9	40	52	Obama +12
+CNN/Time	10/19 - 10/21	700 LV	3.5	46	51	Obama +5
+Politico/InAdv	10/19 - 10/19	690 LV	3.6	47	47	Tie
+Rasmussen	10/16 - 10/16	700 LV	4.0	45	50	Obama +5
+InAdv/PollPosition	10/13 - 10/13	506 LV	4.0	46	49	Obama +3
+LVRJ/Mason-Dixon	10/8 - 10/9	625 LV	4.0	45	47	Obama +2
+InAdv/PollPosition	10/6 - 10/6	468 LV	5.0	47	49	Obama +2
+Reno Gazette-Journal	10/3 - 10/6	600 LV	4.0	43	50	Obama +7
+Rasmussen	10/2 - 10/2	700 LV	4.0	47	51	Obama +4
+InAdv/PollPosition	9/30 - 9/30	437 LV	5.0	47	48	Obama +1
+CNN/Time	9/28 - 9/30	684 LV	3.5	47	51	Obama +4
+ARG	9/27 - 9/29	600 LV	4.0	49	47	McCain +2
+Suffolk University	9/17 - 9/21	600 LV	4.0	46	45	McCain +1
+Rasmussen	9/11 - 9/11	700 LV	4.0	49	46	McCain +3
+InAdv/PollPosition	9/10 - 9/10	518 LV	4.2	46	45	McCain +1
+CNN/Time	8/24 - 8/26	625 RV	--	44	49	Obama +5
+Reno Gazette-Journal	8/18 - 8/20	600 LV	--	43	44	Obama +1
+LVRJ/Mason-Dixon	8/13 - 8/15	400 LV	5.0	46	39	McCain +7
+Rasmussen	8/11 - 8/11	500 LV	--	48	45	McCain +3
+Rasmussen	7/16 - 7/16	500 LV	--	45	47	Obama +2
+Rasmussen	6/18 - 6/18	500 LV	--	45	42	McCain +3
+Mason-Dixon	6/9 - 6/11	625 LV	4.0	44	42	McCain +2
+Rasmussen	5/20 - 5/20	500 LV	--	46	40	McCain +6
+Rasmussen	4/21 - 4/21	500 LV	--	48	43	McCain +5
+Rasmussen	3/19 - 3/19	500 LV	--	41	45	Obama +4
+SurveyUSA	2/26 - 2/28	611 RV	--	41	46	Obama +5
+Research 2000	3/6 - 3/8	600 RV	--	43	42	McCain +1
+WMUR/UNH	10/30 - 11/2	830 LV	3.9	42	53	Obama +11
+Rasmussen	10/30 - 10/30	700 LV	4.0	44	51	Obama +7
+SurveyUSA	10/29 - 10/30	682 LV	3.8	42	53	Obama +11
+ARG	10/28 - 10/30	600 LV	4.0	41	56	Obama +15
+Concord Monitor	10/28 - 10/30	600 LV	4.0	44	51	Obama +7
+Suffolk	10/27 - 10/29	600 LV	4.0	40	53	Obama +13
+Strategic Vision (R)	10/27 - 10/29	800 LV	3.0	41	50	Obama +9
+WMUR/UNH	10/25 - 10/27	652 LV	3.8	33	58	Obama +25
+Associated Press/GfK	10/22 - 10/26	600 LV	4.0	37	55	Obama +18
+NBC/Mason-Dixon	10/23 - 10/25	625 LV	4.0	39	50	Obama +11
+Rasmussen	10/23 - 10/23	700 LV	4.0	46	50	Obama +4
+Marist	10/22 - 10/23	655 LV	4.0	45	50	Obama +5
+Boston Globe/UNH	10/18 - 10/22	725 LV	3.5	39	54	Obama +15
+Concord Monitor	10/17 - 10/19	600 LV	4.0	43	50	Obama +7
+ARG	10/6 - 10/8	600 LV	4.0	43	52	Obama +9
+CNN/Time	10/3 - 10/6	813 LV	3.5	45	53	Obama +8
+SurveyUSA	10/4 - 10/5	647 LV	3.9	40	53	Obama +13
+Rasmussen	10/1 - 10/1	700 LV	4.0	43	53	Obama +10
+St. Anselm/SRBI	9/25 - 9/30	823 LV	3.5	37	49	Obama +12
+Strategic Vision (R)	9/22 - 9/24	800 LV	3.0	45	46	Obama +1
+Concord Monitor	9/22 - 9/24	600 LV	4.0	44	48	Obama +4
+7News/Suffolk	9/20 - 9/24	600 LV	--	45	46	Obama +1
+Rasmussen	9/23 - 9/23	700 LV	4.0	49	47	McCain +2
+National Journal/FD	9/18 - 9/22	403 RV	4.9	43	44	Obama +1
+Marist	9/17 - 9/21	604 LV	3.5	45	51	Obama +6
+University of New Hampshire	9/14 - 9/21	523 LV	4.3	47	45	McCain +2
+CNN/Time	9/7 - 9/9	899 RV	3.0	45	51	Obama +6
+Rasmussen	8/18 - 8/18	500 LV	4.0	46	47	Obama +1
+Rasmussen	7/23 - 7/23	700 LV	4.0	45	49	Obama +4
+University of New Hampshire	7/11 - 7/20	475 LV	--	43	46	Obama +3
+Rasmussen	6/18 - 6/18	500 LV	--	39	50	Obama +11
+Rasmussen	5/21 - 5/21	500 LV	--	43	48	Obama +5
+Dartmouth	4/28 - 5/2	400 RV	--	42	39	McCain +3
+Rasmussen	4/30 - 4/30	500 LV	--	51	41	McCain +10
+University of New Hampshire	4/25 - 4/30	456 LV	4.6	49	43	McCain +6
+Rasmussen	3/16 - 3/16	500 LV	--	46	43	McCain +3
+SurveyUSA	2/26 - 2/28	637 RV	--	44	46	Obama +2
+Rasmussen	2/11 - 2/11	500 LV	--	36	49	Obama +13
+Concord Monitor	12/10 - 12/12	600 LV	--	43	46	Obama +3
+Suffolk	2/24 - 2/28	500 LV	--	42	42	Tie
+Research 2000	12/18 - 12/20	600 LV	--	43	47	Obama +4
+Rasmussen	11/2 - 11/2	500 LV	4.5	42	57	Obama +15
+Monmouth/Gannett	10/29 - 10/31	801 LV	3.5	34	55	Obama +21
+SurveyUSA	10/29 - 10/30	632 LV	4.0	42	52	Obama +10
+Fairleigh Dickinson	10/23 - 10/29	852 LV	3.5	35	53	Obama +18
+Research 2000	10/26 - 10/28	600 LV	4.0	38	54	Obama +16
+Strategic Vision (R)	10/24 - 10/26	800 LV	3.0	38	53	Obama +15
+Marist	10/20 - 10/21	628 LV	4.0	39	56	Obama +17
+Quinnipiac	10/16 - 10/19	1184 LV	2.9	36	59	Obama +23
+Monmouth/Gannett	10/15 - 10/18	723 LV	3.7	38	55	Obama +17
+SurveyUSA	10/11 - 10/12	551 LV	4.2	40	55	Obama +15
+Rasmussen	10/7 - 10/7	500 LV	4.5	42	50	Obama +8
+Fairleigh Dickinson	9/29 - 10/5	790 LV	3.5	37	50	Obama +13
+SurveyUSA	9/27 - 9/28	611 LV	4.0	42	52	Obama +10
+Strategic Vision (R)	9/26 - 9/28	800 LV	3.0	39	48	Obama +9
+Rasmussen	9/16 - 9/16	500 LV	--	42	55	Obama +13
+Strategic Vision (R)	9/14 - 9/16	800 LV	3.0	43	47	Obama +4
+Monmouth/Gannett	9/11 - 9/14	589 LV	4.0	41	49	Obama +8
+Quinnipiac	9/10 - 9/14	1187 LV	--	45	48	Obama +3
+Research 2000	9/9 - 9/11	600 LV	4.0	41	50	Obama +9
+Marist	9/5 - 9/8	805 RV	3.5	45	48	Obama +3
+Fairleigh Dickinson	9/4 - 9/7	872 LV	3.5	41	47	Obama +6
+Quinnipiac	8/4 - 8/10	1468 LV	--	41	51	Obama +10
+Rasmussen	8/4 - 8/4	500 LV	4.5	42	52	Obama +10
+Monmouth/Gannett	7/17 - 7/21	698 LV	3.7	36	50	Obama +14
+Strategic Vision (R)	7/11 - 7/13	800 LV	3.0	38	47	Obama +9
+Rasmussen	7/7 - 7/7	500 LV	--	44	47	Obama +3
+Fairleigh Dickinson	6/17 - 6/23	702 RV	--	33	49	Obama +16
+Quinnipiac	6/5 - 6/8	1473 LV	2.6	39	45	Obama +6
+Rasmussen	6/4 - 6/4	500 LV	--	39	48	Obama +9
+Monmouth/Gannett	4/24 - 4/28	720 RV	--	32	56	Obama +24
+Fairleigh Dickinson	3/24 - 3/30	800 RV	--	42	47	Obama +5
+Rasmussen	3/27 - 3/27	500 LV	--	46	45	McCain +1
+SurveyUSA	2/26 - 2/28	627 RV	--	43	43	Tie
+Rasmussen	2/27 - 2/27	500 LV	--	45	43	McCain +2
+Fairleigh Dickinson	2/18 - 2/24	795 RV	--	38	43	Obama +5
+Quinnipiac	2/13 - 2/18	1803 LV	--	39	46	Obama +7
+Quinnipiac	9/18 - 9/23	1230 RV	--	41	44	Obama +3
+Quinnipiac	6/26 - 7/2	1604 RV	--	40	44	Obama +4
+Quinnipiac	4/10 - 4/16	1424 RV	--	41	43	Obama +2
+Quinnipiac	2/20 - 2/25	1302 RV	--	41	45	Obama +4
+SurveyUSA	10/29 - 10/31	664 LV	3.9	45	52	Obama +7
+PPP (D)	10/28 - 10/30	1537 LV	2.5	41	58	Obama +17
+Rasmussen	10/28 - 10/28	500 LV	4.5	44	54	Obama +10
+Rasmussen	10/13 - 10/13	700 LV	4.0	42	55	Obama +13
+SurveyUSA	10/12 - 10/13	568 LV	4.2	45	52	Obama +7
+Albuquerque Journal	9/29 - 10/2	659 LV	3.8	40	45	Obama +5
+Rasmussen	10/1 - 10/1	700 LV	4.0	44	49	Obama +5
+SurveyUSA	9/29 - 9/30	689 LV	3.8	44	52	Obama +8
+PPP (D)	9/17 - 9/19	1037 LV	3.0	42	53	Obama +11
+SurveyUSA	9/14 - 9/16	671 LV	3.9	44	52	Obama +8
+National Journal/FD	9/11 - 9/15	400 RV	4.9	42	49	Obama +7
+Rasmussen	9/8 - 9/8	700 LV	4.0	49	47	McCain +2
+CNN/Time	8/24 - 8/26	659 RV	--	40	53	Obama +13
+Rasmussen	8/20 - 8/20	700 LV	--	44	48	Obama +4
+Mason-Dixon	8/13 - 8/15	400 LV	5.0	45	41	McCain +4
+Rasmussen	7/24 - 7/24	700 LV	4.0	43	49	Obama +6
+SurveyUSA	6/17 - 6/19	539 LV	--	46	49	Obama +3
+Rasmussen	6/18 - 6/18	500 LV	--	39	47	Obama +8
+SurveyUSA	5/16 - 5/18	600 RV	--	44	44	Tie
+Rasmussen	5/14 - 5/14	500 LV	--	41	50	Obama +9
+SurveyUSA	4/11 - 4/13	490 RV	--	50	44	McCain +6
+Rasmussen	4/8 - 4/8	500 LV	--	42	45	Obama +3
+SurveyUSA	2/26 - 2/28	601 RV	--	43	50	Obama +7
+Rasmussen	2/17 - 2/18	500 LV	--	44	44	Tie
+SurveyUSA	1/20 - 1/21	501 RV	--	50	41	McCain +9
+SurveyUSA	12/13 - 12/15	523 RV	--	51	40	McCain +11
+Marist	10/21 - 10/22	571 LV	29	65	Obama +36
+Rasmussen	10/14 - 10/14	500 LV	37	57	Obama +20
+SurveyUSA	10/11 - 10/12	547 LV	31	64	Obama +33
+Siena	9/28 - 9/30	631 RV	36	58	Obama +22
+SurveyUSA	9/23 - 9/24	668 LV	38	57	Obama +19
+Rasmussen	9/15 - 9/15	500 LV	42	55	Obama +13
+Siena	9/8 - 9/10	626 LV	41	46	Obama +5
+Siena	8/11 - 8/14	627 RV	39	47	Obama +8
+Rasmussen	8/4 - 8/4	500 LV	36	55	Obama +19
+Quinnipiac	7/31 - 8/4	1353 LV	36	57	Obama +21
+Siena	7/17 - 7/29	671 RV	26	44	Obama +18
+Siena	7/7 - 7/10	626 RV	37	50	Obama +13
+Rasmussen	6/30 - 6/30	500 LV	29	60	Obama +31
+SurveyUSA	6/25 - 6/27	531 LV	37	57	Obama +20
+New York Times	6/6 - 6/11	931 RV	32	51	Obama +19
+Quinnipiac	6/3 - 6/8	1388 RV	36	50	Obama +14
+Rasmussen	5/28 - 5/28	500 LV	33	52	Obama +19
+SurveyUSA	5/16 - 5/18	600 RV	38	48	Obama +10
+Siena	5/12 - 5/15	622 RV	38	49	Obama +11
+Rasmussen	4/29 - 4/29	500 LV	35	52	Obama +17
+Siena	4/13 - 4/16	624 RV	40	45	Obama +5
+Quinnipiac	4/14 - 4/15	1257 LV	39	47	Obama +8
+SurveyUSA	4/11 - 4/13	499 RV	43	52	Obama +9
+WNBC/Marist	4/3 - 4/4	576 RV	48	46	McCain +2
+Quinnipiac	3/16 - 3/18	1528 RV	38	49	Obama +11
+Rasmussen	3/11 - 3/11	500 LV	38	51	Obama +13
+SurveyUSA	2/26 - 2/28	592 RV	38	52	Obama +14
+SurveyUSA	2/15 - 2/17	519 RV	36	57	Obama +21
+Siena	2/11 - 2/14	633 RV	40	47	Obama +7
+SurveyUSA	1/20 - 1/21	516 RV	43	49	Obama +6
+SurveyUSA	12/13 - 12/15	503 RV	43	47	Obama +4
+SurveyUSA	11/9 - 11/11	516 RV	43	49	Obama +6
+Quinnipiac	9/24 - 9/30	1504 RV	39	47	Obama +8
+Siena	6/18 - 6/21	800 RV	35	49	Obama +14
+Reuters/Zogby	10/31 - 11/3	585 LV	4.1	50	49	McCain +1
+ARG	10/31 - 11/3	600 LV	4.0	48	49	Obama +1
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	50	49	McCain +1
+PPP (D)	10/31 - 11/2	2100 LV	2.1	49	50	Obama +1
+SurveyUSA	10/30 - 11/2	682 LV	3.8	49	48	McCain +1
+Mason-Dixon	10/29 - 10/30	625 LV	4.0	49	46	McCain +3
+Research 2000	10/28 - 10/30	600 LV	4.0	45	47	Obama +2
+Rasmussen	10/29 - 10/29	1000 LV	3.0	48	50	Obama +2
+Politico/InAdv	10/29 - 10/29	641 LV	3.7	48	48	Tie
+Civitas/TelOpinion (R)	10/27 - 10/29	600 LV	4.2	46	47	Obama +1
+CNN/Time	10/23 - 10/28	667 LV	4.0	46	52	Obama +6
+National Journal/FD	10/23 - 10/27	402 RV	4.9	43	47	Obama +4
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	49	48	McCain +1
+PPP (D)	10/25 - 10/26	1038 LV	2.8	48	49	Obama +1
+Reuters/Zogby	10/23 - 10/26	601 LV	4.1	46	50	Obama +4
+Associated Press/GfK	10/22 - 10/26	601 LV	4.0	46	48	Obama +2
+NBC/Mason-Dixon	10/22 - 10/24	800 LV	3.0	47	47	Tie
+Rasmussen	10/23 - 10/23	700 LV	4.0	50	48	McCain +2
+WSOC-TV	10/20 - 10/21	500 LV	4.4	46	48	Obama +2
+CNN/Time	10/19 - 10/21	644 LV	4.0	47	51	Obama +4
+Civitas/TelOpinion (R)	10/18 - 10/20	600 RV	4.2	45	48	Obama +3
+SurveyUSA	10/18 - 10/20	627 LV	4.0	47	47	Tie
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	3.0	48	51	Obama +3
+Politico/InAdv	10/19 - 10/19	698 LV	3.6	48	49	Obama +1
+PPP (D)	10/18 - 10/19	1200 LV	2.8	44	51	Obama +7
+Winthrop/ETV	9/28 - 10/19	744 LV	3.6	44	45	Obama +1
+Research 2000	10/14 - 10/15	600 LV	4.0	44	46	Obama +2
+InAdv/PollPosition	10/13 - 10/13	474 LV	5.0	46	48	Obama +2
+FOX News/Rasmussen	10/12 - 10/12	1000 LV	3.0	48	48	Tie
+PPP (D)	10/11 - 10/12	1196 LV	2.8	46	49	Obama +3
+Rasmussen	10/8 - 10/8	700 LV	3.0	48	49	Obama +1
+Civitas/TelOpinion (R)	10/6 - 10/8	600 LV	--	43	48	Obama +5
+WSOC-TV	10/6 - 10/7	500 LV	4.5	48	46	McCain +2
+SurveyUSA	10/5 - 10/6	617 LV	4.0	49	46	McCain +3
+CNN/Time	10/3 - 10/6	666 LV	4.0	49	49	Tie
+PPP (D)	10/4 - 10/5	1202 LV	2.8	44	50	Obama +6
+Rasmussen	9/30 - 9/30	700 LV	4.0	47	50	Obama +3
+ARG	9/27 - 9/29	600 LV	4.0	49	46	McCain +3
+PPP (D)	9/27 - 9/28	1041 LV	3.0	45	47	Obama +2
+Rasmussen	9/23 - 9/23	500 LV	4.5	47	49	Obama +2
+Civitas/TelOpinion (R)	9/17 - 9/20	600 LV	--	45	45	Tie
+PPP (D)	9/17 - 9/19	1060 LV	3.0	46	46	Tie
+Rasmussen	9/18 - 9/18	500 LV	4.5	50	47	McCain +3
+CNN/Time	9/13 - 9/14	910 RV	3.5	48	47	McCain +1
+Research 2000	9/8 - 9/10	600 LV	4.0	55	38	McCain +17
+Civitas/TelOpinion (R)	9/6 - 9/10	600 LV	--	47	44	McCain +3
+PPP (D)	9/9 - 9/9	626 LV	3.9	48	44	McCain +4
+SurveyUSA	9/6 - 9/8	671 LV	--	58	38	McCain +20
+PPP (D)	8/20 - 8/23	904 LV	--	45	42	McCain +3
+InsiderAdvantage	8/19 - 8/19	614 LV	--	45	43	McCain +2
+Civitas/TelOpinion (R)*	8/14 - 8/17	600 RV	4.2	46	40	McCain +6
+Rasmussen	8/13 - 8/13	700 LV	4.0	50	44	McCain +6
+SurveyUSA	8/9 - 8/11	655 LV	3.9	49	45	McCain +4
+Research 2000	7/28 - 7/30	600 LV	4.0	47	43	McCain +4
+Civitas/TelOpinion (R)	7/14 - 7/16	800 RV	--	43	40	McCain +3
+Rasmussen	7/15 - 7/15	500 LV	--	48	45	McCain +3
+SurveyUSA	7/12 - 7/14	676 LV	--	50	45	McCain +5
+PPP (D)*	6/26 - 6/29	1048 LV	--	45	41	McCain +4
+Civitas/TelOpinion (R)	6/11 - 6/13	600 RV	--	45	41	McCain +4
+Rasmussen	6/10 - 6/10	500 LV	4.0	45	43	McCain +2
+PPP (D)*	5/28 - 5/29	543 LV	--	43	40	McCain +3
+SurveyUSA	5/17 - 5/19	713 LV	--	51	43	McCain +8
+Civitas/TelOpinion (R)	5/14 - 5/17	700 V	--	44	39	McCain +5
+PPP (D)	5/8 - 5/9	616 LV	--	49	42	McCain +7
+Rasmussen	5/8 - 5/8	500 LV	--	48	45	McCain +3
+Research 2000	4/28 - 4/30	600 LV	--	50	41	McCain +9
+Rasmussen	4/10 - 4/10	500 LV	--	47	47	Tie
+Civitas/TelOpn (R)*	4/9 - 4/10	800 LV	--	48	39	McCain +9
+Rasmussen	3/20 - 3/20	500 LV	--	51	42	McCain +9
+SurveyUSA	2/26 - 2/28	630 RV	--	47	45	McCain +2
+Public Policy Polling (D)	6/19 - 6/19	545 LV	--	45	44	McCain +1
+Research 2000	10/28 - 10/29	500 LV	47	46	McCain +1
+Research 2000	10/14 - 10/15	600 LV	45	45	Tie
+North Dakota UTU (D)	10/13 - 10/14	504 LV	41	44	Obama +3
+Forum Poll/MSUM	10/6 - 10/8	600 LV	43	45	Obama +2
+Research 2000	9/16 - 9/17	500 LV	53	40	McCain +13
+Rasmussen	9/8 - 9/8	500 LV	55	41	McCain +14
+North Dakota UTU (D)	8/23 - 8/27	400 RV	40	43	Obama +3
+Research 2000	7/21 - 7/23	500 LV	45	42	McCain +3
+Rasmussen	7/8 - 7/8	500 LV	47	46	McCain +1
+Dakota Wesleyan	3/24 - 4/3	260 RV	44	38	McCain +6
+SurveyUSA	2/26 - 2/28	572 RV	42	46	Obama +4Reuters/Zogby	10/31 - 11/3	687 LV	4.1	47	49	Obama +2
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	49	49	Tie
+PPP (D)	10/31 - 11/2	1208 LV	2.8	48	50	Obama +2
+Strategic Vision (R)	10/31 - 11/2	1200 LV	3.0	48	46	McCain +2
+SurveyUSA	10/30 - 11/2	660 LV	3.9	46	48	Obama +2
+Univ of Cinci/Ohio Poll	10/29 - 11/2	1221 LV	2.7	46	52	Obama +6
+Quinnipiac	10/27 - 11/2	1574 LV	2.5	43	50	Obama +7
+Columbus Dispatch*	10/22 - 10/31	2164 LV	2.0	46	52	Obama +6
+Mason-Dixon	10/29 - 10/30	625 LV	4.0	47	45	McCain +2
+CNN/Time	10/23 - 10/28	779 LV	3.5	47	51	Obama +4
+SurveyUSA	10/26 - 10/27	648 LV	3.9	45	49	Obama +4
+LA Times/Bloomberg	10/25 - 10/27	644 LV	3.0	40	49	Obama +9
+National Journal/FD	10/23 - 10/27	404 RV	4.9	41	48	Obama +7
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	45	49	Obama +4
+Marist	10/24 - 10/26	661 LV	4.0	45	48	Obama +3
+Reuters/Zogby	10/23 - 10/26	600 LV	4.1	45	50	Obama +5
+Quinnipiac	10/22 - 10/26	1425 LV	2.6	42	51	Obama +9
+Associated Press/GfK	10/22 - 10/26	607 LV	4.0	41	48	Obama +7
+PPP (D)	10/21 - 10/23	993 LV	3.1	44	51	Obama +7
+Politico/InAdv	10/22 - 10/22	408 LV	5.0	42	52	Obama +10
+Strategic Vision (R)	10/20 - 10/22	1200 LV	3.0	48	45	McCain +3
+Big10 Battleground	10/19 - 10/22	564 LV	4.2	41	53	Obama +12
+Ohio Newspaper Poll	10/18 - 10/22	886 LV	3.3	46	49	Obama +3
+CNN/Time	10/19 - 10/21	737 LV	3.5	46	50	Obama +4
+Quinnipiac	10/16 - 10/21	1360 LV	2.7	38	52	Obama +14
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	4.0	49	47	McCain +2
+Suffolk	10/17 - 10/19	600 LV	4.0	42	51	Obama +9
+NBC/Mason-Dixon	10/16 - 10/17	625 LV	4.0	46	45	McCain +1
+Rasmussen	10/14 - 10/14	700 LV	4.0	49	49	Tie
+SurveyUSA	10/12 - 10/13	575 LV	4.2	45	50	Obama +5
+FOX News/Rasmussen	10/12 - 10/12	1000 LV	3.0	47	49	Obama +2
+InAdv/PollPosition	10/9 - 10/9	509 LV	4.0	44	49	Obama +5
+Strategic Vision (R)	10/6 - 10/8	1200 LV	3.0	46	48	Obama +2
+Marist	10/5 - 10/8	771 LV	3.5	45	49	Obama +4
+Ohio Newspaper Poll	10/4 - 10/8	876 LV	3.0	48	46	McCain +2
+ARG	10/4 - 10/7	600 LV	4.0	45	48	Obama +3
+CNN/Time	10/3 - 10/6	749 LV	3.5	47	50	Obama +3
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	48	47	McCain +1
+PPP (D)	10/4 - 10/5	1239 LV	2.8	43	49	Obama +6
+ABC News/Wash Post	10/3 - 10/5	772 LV	3.5	45	51	Obama +6
+Columbus Dispatch*	9/24 - 10/3	2262 LV	2.0	42	49	Obama +7
+Democracy Corps (D)	9/29 - 10/1	600 LV	--	43	49	Obama +6
+InAdv/PollPosition	9/29 - 9/29	512 LV	4.0	45	47	Obama +2
+SurveyUSA	9/28 - 9/29	693 LV	3.8	49	48	McCain +1
+Quinnipiac	9/27 - 9/29	825 LV	3.4	42	50	Obama +8
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	48	47	McCain +1
+Rasmussen	9/24 - 9/24	700 LV	4.0	47	46	McCain +1
+InAdv/PollPosition	9/22 - 9/22	545 LV	4.1	46	46	Tie
+FOX News/Rasmussen	9/21 - 9/21	500 LV	4.5	50	46	McCain +4
+Big10 Battleground	9/14 - 9/17	619 RV	4.0	45	46	Obama +1
+Ohio Newspaper Poll	9/12 - 9/16	869 LV	3.3	48	42	McCain +6
+National Journal/FD	9/11 - 9/15	400 RV	4.9	42	41	McCain +1
+Marist	9/11 - 9/15	565 LV	3.5	45	47	Obama +2
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	48	45	McCain +3
+PPP (D)	9/13 - 9/14	1077 LV	3.0	48	44	McCain +4
+CNN/Time	9/13 - 9/14	913 RV	3.0	47	49	Obama +2
+SurveyUSA	9/12 - 9/14	692 LV	3.8	49	45	McCain +4
+Suffolk University	9/10 - 9/13	600 LV	--	46	42	McCain +4
+InAdv/PollPosition	9/10 - 9/10	500 LV	4.3	48	47	McCain +1
+Univ of Cinci/Ohio Poll	9/5 - 9/10	775 LV	3.5	48	44	McCain +4
+Strategic Vision (R)	9/7 - 9/9	1200 LV	--	48	44	McCain +4
+Quinnipiac	9/5 - 9/9	1367 LV	3.1	44	49	Obama +5
+FOX News/Rasmussen	9/7 - 9/7	500 LV	4.0	51	44	McCain +7
+CNN/Time	8/31 - 9/2	685 RV	3.5	45	47	Obama +2
+Quinnipiac	8/17 - 8/24	1234 LV	--	43	44	Obama +1
+Columbus Dispatch*	8/12 - 8/21	2102 RV	--	42	41	McCain +1
+Rasmussen	8/18 - 8/18	700 LV	4.5	48	43	McCain +5
+PPP (D)	8/12 - 8/14	950 LV	--	45	45	Tie
+Quinnipiac	7/23 - 7/29	1229 LV	2.8	44	46	Obama +2
+Rasmussen	7/21 - 7/21	500 LV	--	52	42	McCain +10
+PPP (D)	7/17 - 7/20	1058 LV	--	40	48	Obama +8
+SurveyUSA	6/20 - 6/22	580 LV	--	46	48	Obama +2
+Rasmussen	6/17 - 6/17	500 LV	--	44	43	McCain +1
+Quinnipiac	6/9 - 6/16	1396 LV	2.6	42	48	Obama +6
+PPP (D)	6/14 - 6/15	733 LV	--	39	50	Obama +11
+Quinnipiac	5/13 - 5/20	1244 RV	2.8	44	40	McCain +4
+SurveyUSA	5/16 - 5/18	600 RV	--	39	48	Obama +9
+Rasmussen	5/15 - 5/15	500 LV	--	45	44	McCain +1
+Quinnipiac	4/23 - 4/29	1127 RV	--	43	42	McCain +1
+SurveyUSA	4/11 - 4/13	527 RV	--	47	45	McCain +2
+Rasmussen	4/8 - 4/8	500 LV	--	47	40	McCain +7
+Quinnipiac	3/24 - 3/31	1238 RV	--	42	43	Obama +1
+PPP (D)	3/15 - 3/17	629 LV	--	49	41	McCain +8
+SurveyUSA	3/14 - 3/16	532 RV	--	50	43	McCain +7
+Rasmussen	3/13 - 3/13	500 LV	--	46	40	McCain +6
+SurveyUSA	2/26 - 2/28	629 RV	--	40	50	Obama +10
+Ohio Poll/Univ of Cin.	2/21 - 2/24	970 RV	--	47	48	Obama +1
+Rasmussen	2/17 - 2/17	500 LV	--	42	41	McCain +1
+SurveyUSA	2/15 - 2/17	542 RV	--	44	47	Obama +3
+Quinnipiac	2/6 - 2/12	1748 LV	--	42	40	McCain +2
+SurveyUSA	1/4 - 1/6	535 RV	--	50	43	McCain +7
+SurveyUSA	12/13 - 12/15	539 RV	--	47	38	McCain +9
+SurveyUSA	11/9 - 11/11	533 RV	--	52	37	McCain +15
+Quinnipiac	10/1 - 10/8	946 RV	--	39	42	Obama +3
+Quinnipiac	8/28 - 9/3	1430 RV	--	42	41	McCain +1
+SurveyUSA	10/18 - 10/19	561 LV	59	35	McCain +24
+SurveyUSA	9/28 - 9/29	656 LV	64	34	McCain +30
+Rasmussen	9/11 - 9/11	500 LV	63	32	McCain +31
+SurveyUSA	9/5 - 9/7	652 LV	65	32	McCain +33
+Sooner Poll	7/19 - 7/23	750 LV	56	24	McCain +32
+Research 2000	6/9 - 6/11	600 LV	52	38	McCain +14
+Cole Hargrave Snodgrass & Associates	4/1 - 4/10	500 RV	62	21	McCain +41
+SurveyUSA	2/26 - 2/28	599 RV	57	34	McCain +23
+Sooner Poll	1/27 - 1/30	757 LV	58	30	McCain +28Rasmussen	10/30 - 10/30	500 LV	4.0	42	54	Obama +12
+PPP (D)	10/28 - 10/30	1424 LV	2.6	42	57	Obama +15
+Research 2000	10/27 - 10/29	500 LV	4.0	39	55	Obama +16
+SurveyUSA	10/25 - 10/26	672 LV	3.8	38	57	Obama +19
+Riley Research	10/10 - 10/20	499 RV	4.4	34	48	Obama +14
+Research 2000	10/14 - 10/15	600 LV	4.0	38	53	Obama +15
+Rasmussen	10/14 - 10/14	500 LV	4.0	41	54	Obama +13
+SurveyUSA	10/11 - 10/12	584 LV	4.1	40	57	Obama +17
+Rasmussen	10/9 - 10/9	700 LV	4.0	43	54	Obama +11
+Research 2000	9/22 - 9/24	600 LV	4.0	39	53	Obama +14
+SurveyUSA	9/22 - 9/23	708 LV	3.8	41	52	Obama +11
+Rasmussen	9/15 - 9/15	700 LV	4.0	47	51	Obama +4
+Portland Tribune	9/11 - 9/14	500 RV	4.4	40	50	Obama +10
+Moore Info. (R)	9/10 - 9/11	408 RV	5.0	37	43	Obama +6
+Hoffman Research (R)	9/8 - 9/9	600 LV	4.0	39	46	Obama +7
+Rasmussen	8/7 - 8/7	700 LV	4.0	42	52	Obama +10
+SurveyUSA	8/2 - 8/4	629 LV	4.0	45	48	Obama +3
+Rasmussen	7/15 - 7/15	500 LV	--	40	49	Obama +9
+SurveyUSA	6/17 - 6/19	547 LV	--	45	48	Obama +3
+Rasmussen	6/11 - 6/11	500 LV	--	38	46	Obama +8
+SurveyUSA	5/16 - 5/18	600 RV	--	39	49	Obama +10
+Rasmussen	5/7 - 5/7	500 LV	4.0	38	52	Obama +14
+SurveyUSA	4/11 - 4/13	543 RV	--	42	51	Obama +9
+Rasmussen	3/26 - 3/26	500 LV	--	42	48	Obama +6
+SurveyUSA	2/26 - 2/28	628 RV	--	41	49	Obama +8
+Riley Research	2/7 - 2/18	401 LV	--	38	46	Obama +8
+SurveyUSA	2/15 - 2/17	530 RV	--	47	48	Obama +1
+Rasmussen	2/13 - 2/13	500 LV	--	40	49	Obama +9
+SurveyUSA	1/11 - 1/13	544 RV	--	47	47	Tie
+SurveyUSA	12/13 - 12/15	537 RV	--	44	46	Obama +2
+Reuters/Zogby	10/31 - 11/3	682 LV	4.1	41	51	Obama +10
+SurveyUSA	10/31 - 11/3	657 LV	3.9	43	52	Obama +9
+PPP (D)	10/31 - 11/2	1529 LV	2.5	45	53	Obama +8
+Strategic Vision (R)	10/31 - 11/2	1200 LV	3.0	44	51	Obama +7
+Morning Call	10/29 - 11/2	617 LV	4.0	46	52	Obama +6
+Quinnipiac	10/27 - 11/2	1493 LV	2.5	42	52	Obama +10
+Rasmussen	11/1 - 11/1	700 LV	4.0	46	52	Obama +6
+ARG	10/29 - 10/31	600 LV	4.0	45	51	Obama +6
+SurveyUSA	10/29 - 10/31	700 LV	3.8	44	51	Obama +7
+Strategic Vision (R)	10/27 - 10/29	1200 LV	3.0	44	49	Obama +5
+NBC/Mason-Dixon	10/27 - 10/28	625 LV	4.0	43	47	Obama +4
+CNN/Time	10/23 - 10/28	768 LV	3.5	43	55	Obama +12
+Rasmussen	10/27 - 10/27	500 LV	4.5	46	53	Obama +7
+Marist	10/26 - 10/27	713 LV	4.0	41	55	Obama +14
+InAdv/PollPosition	10/26 - 10/26	588 LV	3.8	42	51	Obama +9
+Associated Press/GfK	10/22 - 10/26	607 LV	4.0	40	52	Obama +12
+Quinnipiac	10/22 - 10/26	1364 LV	2.7	41	53	Obama +12
+Franklin & Marshall	10/21 - 10/26	LV	4.2	40	53	Obama +13
+Temple Univ.	10/20 - 10/26	761 LV	3.6	41	50	Obama +9
+Morning Call	10/19 - 10/23	608 LV	4.0	40	52	Obama +12
+SurveyUSA	10/21 - 10/22	620 LV	4.0	41	53	Obama +12
+Strategic Vision (R)	10/20 - 10/22	1200 LV	3.0	43	50	Obama +7
+Big10 Battleground	10/19 - 10/22	566 LV	4.2	41	52	Obama +11
+Quinnipiac	10/16 - 10/21	1425 LV	2.6	40	53	Obama +13
+Morning Call	10/16 - 10/20	600 LV	4.0	41	53	Obama +12
+National Journal/FD	10/16 - 10/20	412 RV	4.9	41	51	Obama +10
+Susquehanna	10/16 - 10/18	700 LV	3.7	40	48	Obama +8
+Morning Call	10/10 - 10/14	584 LV	4.0	38	52	Obama +14
+SurveyUSA	10/11 - 10/13	516 LV	4.4	40	55	Obama +15
+Marist	10/5 - 10/8	757 LV	3.5	41	53	Obama +12
+Strategic Vision (R)	10/5 - 10/7	1200 LV	3.0	40	54	Obama +14
+Rasmussen	10/6 - 10/6	700 LV	4.0	41	54	Obama +13
+SurveyUSA	10/5 - 10/6	653 LV	3.9	40	55	Obama +15
+Morning Call	9/26 - 9/30	598 LV	4.0	41	48	Obama +7
+Quinnipiac	9/27 - 9/29	832 LV	3.4	39	54	Obama +15
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	42	50	Obama +8
+Franklin & Marshall	9/23 - 9/28	767 RV	3.5	38	45	Obama +7
+Morning Call	9/21 - 9/25	577 LV	4.5	43	47	Obama +4
+Rasmussen	9/24 - 9/24	500 LV	4.0	45	49	Obama +4
+SurveyUSA	9/23 - 9/24	1094 LV	3.0	44	50	Obama +6
+CNN/Time	9/21 - 9/23	730 LV	3.5	44	53	Obama +9
+Strategic Vision (R)	9/21 - 9/23	1200 LV	3.0	46	47	Obama +1
+National Journal/FD	9/18 - 9/22	406 RV	4.9	41	43	Obama +2
+FOX News/Rasmussen	9/21 - 9/21	500 LV	4.5	45	48	Obama +3
+NBC/Mason-Dixon	9/16 - 9/18	625 LV	4.0	44	46	Obama +2
+Big10 Battleground	9/14 - 9/17	600 RV	4.0	45	45	Tie
+Marist	9/11 - 9/15	535 LV	3.5	44	49	Obama +5
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	47	47	Tie
+Quinnipiac	9/5 - 9/9	1001 LV	3.1	45	48	Obama +3
+FOX News/Rasmussen	9/7 - 9/7	500 LV	4.5	45	47	Obama +2
+Strategic Vision (R)	9/5 - 9/7	1200 LV	3.0	45	47	Obama +2
+CNN/Time	8/24 - 8/26	669 RV	4.0	43	48	Obama +5
+Quinnipiac	8/17 - 8/24	1234 LV	2.8	42	49	Obama +7
+Rasmussen	8/19 - 8/19	700 LV	4.0	45	48	Obama +3
+Susquehanna	8/11 - 8/14	700 LV	--	41	46	Obama +5
+Franklin & Marshall	8/4 - 8/9	370 LV	--	41	46	Obama +5
+Quinnipiac	7/23 - 7/29	1317 LV	2.7	42	49	Obama +7
+Strategic Vision (R)	7/25 - 7/27	1200 LV	3.0	40	49	Obama +9
+Rasmussen	7/23 - 7/23	700 LV	4.0	45	51	Obama +6
+Rasmussen	6/22 - 6/22	1000 LV	3.0	42	46	Obama +4
+Franklin & Marshall	6/16 - 6/22	1501 RV	2.5	36	42	Obama +6
+Quinnipiac	6/9 - 6/16	1511 LV	2.5	40	52	Obama +12
+Rasmussen	5/21 - 5/21	500 LV	--	43	45	Obama +2
+Quinnipiac	5/13 - 5/20	1667 RV	2.4	40	46	Obama +6
+SurveyUSA	5/16 - 5/18	600 RV	--	40	48	Obama +8
+Susquehanna	5/1 - 5/6	800 LV	--	39	46	Obama +7
+Quinnipiac	4/23 - 4/29	1494 RV	--	38	47	Obama +9
+Rasmussen	4/24 - 4/24	500 LV	--	44	43	McCain +1
+Strategic Vision (R)	4/11 - 4/13	1200 LV	--	49	39	McCain +10
+Rasmussen	4/9 - 4/9	500 LV	--	39	47	Obama +8
+Temple Univ.	3/27 - 4/9	1175 RV	--	40	47	Obama +7
+Strategic Vision (R)	3/28 - 3/31	1200 LV	--	47	42	McCain +5
+Quinnipiac	3/24 - 3/31	3484 RV	--	39	43	Obama +4
+Rasmussen	3/10 - 3/10	500 LV	--	44	43	McCain +1
+Susquehanna	3/5 - 3/10	700 RV	--	45	41	McCain +4
+Strategic Vision (R)	3/7 - 3/9	1,200 LV	--	47	44	McCain +3
+SurveyUSA	2/26 - 2/28	608 RV	--	47	42	McCain +5
+Quinnipiac	2/21 - 2/25	1872 RV	--	40	42	Obama +2
+Franklin & Marshall	2/13 - 2/18	640 RV	--	44	43	McCain +1
+Morning Call	2/9 - 2/17	588 RV	--	42	39	McCain +3
+Rasmussen	2/14 - 2/14	500 LV	--	39	49	Obama +10
+Quinnipiac	2/6 - 2/12	1419 LV	--	41	42	Obama +1
+Quinnipiac	10/1 - 10/8	878 RV	--	41	45	Obama +4
+Keystone Poll	8/24 - 9/2	232 RV	--	42	47	Obama +5
+Quinnipiac	8/14 - 8/20	1160 RV	--	40	43	Obama +3
+Keystone Poll	5/29 - 6/7	RV	--	43	37	McCain +6
+Morning Call	5/15 - 5/21	416 RV	--	39	36	McCain +3
+Keystone Poll	2/19 - 2/25	540 RV	--	43	37	McCain +6
+Rasmussen	9/13 - 9/13	500 LV	39	58	Obama +19
+Brown University	8/18 - 8/20	548 RV	30	51	Obama +21
+Rasmussen	6/30 - 6/30	500 LV	31	55	Obama +24
+Rhode Island College	6/18 - 6/27	500 RV	25	53	Obama +28
+SurveyUSA	2/26 - 2/28	628 RV	38	53	Obama +15SurveyUSA	10/28 - 10/29	654 LV	52	44	McCain +8
+NBC/PSRA	10/25 - 10/28	400 LV	53	42	McCain +11
+Rasmussen	10/20 - 10/20	500 LV	54	43	McCain +11
+Winthrop/ETV	9/28 - 10/19	617 LV	55	35	McCain +20
+SurveyUSA	10/12 - 10/13	561 LV	55	41	McCain +14
+SurveyUSA	9/21 - 9/22	690 LV	58	39	McCain +19
+Rasmussen	9/18 - 9/18	500 LV	51	45	McCain +6
+Research 2000	7/22 - 7/23	500 LV	53	40	McCain +13
+PPP (D)*	7/9 - 7/11	542 LV	45	39	McCain +6
+Rasmussen	6/5 - 6/5	500 LV	48	39	McCain +9
+SurveyUSA	2/26 - 2/28	595 RV	48	45	McCain +3
+Rasmussen	10/30 - 10/30	500 LV	53	44	McCain +9
+Research 2000	10/22 - 10/24	600 LV	50	41	McCain +9
+Mason-Dixon	10/13 - 10/15	800 LV	48	41	McCain +7
+Rasmussen	9/9 - 9/9	500 LV	54	37	McCain +17
+Rasmussen	7/9 - 7/9	500 LV	47	43	McCain +4
+Dakota Wesleyan	3/24 - 4/3	267 RV	51	34	McCain +17
+Rasmussen	3/4 - 3/4	500 LV	48	38	McCain +10
+SurveyUSA	2/26 - 2/28	632 RV	47	43	McCain +4
+Research 2000	10/21 - 10/22	600 LV	54	38	McCain +16
+Rasmussen	10/16 - 10/16	500 LV	54	42	McCain +12
+Rasmussen	9/29 - 9/29	500 LV	58	39	McCain +19
+Middle Tn. State U.	9/15 - 9/27	635 A	48	36	McCain +12
+Mason-Dixon	9/22 - 9/24	625 LV	55	39	McCain +16
+Rasmussen	8/20 - 8/20	500 LV	60	35	McCain +25
+Ayres McHenry (R)	8/10 - 8/12	500 RV	51	36	McCain +15
+Rasmussen	6/24 - 6/24	500 LV	51	36	McCain +15
+Rasmussen	4/3 - 4/3	500 LV	58	31	McCain +27
+Ayres McHenry (R)	3/5 - 3/9	600 RV	53	36	McCain +17
+SurveyUSA	2/26 - 2/28	618 RV	54	38	McCain +16
+Middle Tn. State U.	2/11 - 2/23	585 A	50	36	McCain +14
+University of Texas	10/15 - 10/22	550 RV	4.2	51	40	McCain +11
+Rasmussen	10/21 - 10/21	500 LV	4.5	54	44	McCain +10
+Research 2000	10/14 - 10/15	600 LV	4.0	52	40	McCain +12
+ARG	10/5 - 10/8	600 LV	4.0	57	38	McCain +19
+Rasmussen	9/29 - 9/29	500 LV	4.5	52	43	McCain +9
+Rasmussen	8/21 - 8/21	500 LV	4.5	54	44	McCain +10
+Rasmussen	7/30 - 7/30	500 LV	4.5	52	44	McCain +8
+University of Texas	7/18 - 7/30	668 RV	--	43	33	McCain +10
+Rasmussen	6/25 - 6/25	500 LV	4.5	48	39	McCain +9
+Texas Lyceum	6/12 - 6/20	LV	--	43	38	McCain +5
+Rasmussen	6/2 - 6/2	500 LV	--	52	39	McCain +13
+Baselice & Associates (R)	5/20 - 5/25	1005 RV	--	52	36	McCain +16
+Research 2000	5/5 - 5/7	600 LV	--	52	39	McCain +13
+Rasmussen	5/1 - 5/1	500 LV	--	48	43	McCain +5
+SurveyUSA	2/26 - 2/28	600 RV	--	47	46	McCain +1
+Deseret News	10/24 - 10/30	1205 RV	57	32	McCain +25
+Mason-Dixon	10/23 - 10/25	625 LV	55	32	McCain +23
+Deseret News	9/8 - 9/11	601 RV	62	24	McCain +38
+Rasmussen	9/10 - 9/10	500 LV	64	32	McCain +32
+Mason-Dixon	8/13 - 8/15	400 LV	62	23	McCain +39
+Rasmussen	6/19 - 6/19	500 LV	52	33	McCain +19
+Deseret News	6/16 - 6/19	405 R	57	29	McCain +28
+Jones & Assoc	6/1 - 6/3	252 LV	54	31	McCain +23
+Deseret News	5/13 - 5/19	604 RV	62	27	McCain +35
+SurveyUSA	2/26 - 2/28	608 RV	50	39	McCain +11Reuters/Zogby	10/31 - 11/3	690 LV	4.1	45	52	Obama +7
+ARG	10/31 - 11/3	600 LV	4.0	47	51	Obama +4
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	47	51	Obama +4
+PPP (D)	10/31 - 11/2	1557 LV	2.5	46	52	Obama +6
+SurveyUSA	10/30 - 11/1	672 LV	3.9	46	50	Obama +4
+Mason-Dixon	10/29 - 10/30	625 LV	4.0	44	47	Obama +3
+CNN/Time	10/23 - 10/28	774 LV	3.5	44	53	Obama +9
+Marist	10/26 - 10/27	671 LV	4.0	47	51	Obama +4
+National Journal/FD	10/23 - 10/27	404 RV	4.9	44	48	Obama +4
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	47	51	Obama +4
+SurveyUSA	10/25 - 10/26	671 LV	3.9	43	52	Obama +9
+Reuters/Zogby	10/23 - 10/26	600 LV	4.1	45	52	Obama +7
+Associated Press/GfK	10/22 - 10/26	601 LV	4.0	42	49	Obama +7
+Roanoke College	10/19 - 10/26	614 LV	4.0	39	48	Obama +9
+Washington Post	10/22 - 10/25	784 LV	3.5	44	52	Obama +8
+VCU	10/20 - 10/22	817 LV	4.0	40	51	Obama +11
+NBC/Mason-Dixon	10/20 - 10/21	625 LV	4.0	45	47	Obama +2
+CNN/Time	10/19 - 10/21	647 LV	4.0	44	54	Obama +10
+SurveyUSA	10/18 - 10/19	652 LV	3.9	45	51	Obama +6
+Winthrop/ETV	9/28 - 10/19	665 LV	3.8	44	45	Obama +1
+Rasmussen	10/16 - 10/16	700 LV	3.0	44	54	Obama +10
+CNN/Time	10/11 - 10/14	698 LV	3.5	43	53	Obama +10
+CNU Virginia Poll	10/11 - 10/14	500 LV	4.4	47	53	Obama +6
+FOX News/Rasmussen	10/12 - 10/12	1000 LV	3.0	47	50	Obama +3
+PPP (D)	10/6 - 10/7	917 LV	3.2	43	51	Obama +8
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	48	50	Obama +2
+SurveyUSA	10/4 - 10/5	666 LV	3.9	43	53	Obama +10
+Suffolk	10/3 - 10/5	600 LV	--	39	51	Obama +12
+Mason-Dixon	9/29 - 10/1	625 LV	4.0	48	45	McCain +3
+CNN/Time	9/28 - 9/30	684 LV	4.0	44	53	Obama +9
+InAdv/PollPosition	9/29 - 9/29	436 LV	5.0	45	51	Obama +6
+ARG	9/27 - 9/29	600 LV	4.0	49	46	McCain +3
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	47	50	Obama +3
+Rasmussen	9/25 - 9/25	700 LV	4.0	45	50	Obama +5
+NBC/Mason-Dixon	9/17 - 9/22	625 LV	4.0	47	44	McCain +3
+FOX News/Rasmussen	9/21 - 9/21	500 LV	4.5	50	48	McCain +2
+SurveyUSA	9/19 - 9/21	716 LV	3.7	45	51	Obama +6
+ABC News/Wash Post	9/18 - 9/21	698 LV	3.5	46	49	Obama +3
+InAdv/PollPosition	9/17 - 9/17	502 LV	4.3	48	46	McCain +2
+National Journal/FD	9/11 - 9/15	400 RV	4.9	48	41	McCain +7
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	48	48	Tie
+PPP (D)	9/13 - 9/14	1090 LV	3.0	46	48	Obama +2
+SurveyUSA	9/12 - 9/14	732 LV	3.7	46	50	Obama +4
+CNU Virginia Poll	9/10 - 9/14	500 RV	4.4	48	39	McCain +9
+CNN/Time	9/7 - 9/9	920 RV	3.0	50	46	McCain +4
+FOX News/Rasmussen	9/7 - 9/7	500 LV	3.0	49	47	McCain +2
+SurveyUSA	9/5 - 9/7	717 LV	3.7	49	47	McCain +2
+PPP (D)	8/20 - 8/22	1036 LV	--	45	47	Obama +2
+InAdv/PollPosition	8/12 - 8/12	416 LV	5.0	43	43	Tie
+Rasmussen	8/12 - 8/12	500 LV	--	48	47	McCain +1
+SurveyUSA	8/8 - 8/10	655 LV	--	48	47	McCain +1
+PPP (D)	7/17 - 7/20	1327 LV	--	44	46	Obama +2
+Rasmussen	7/16 - 7/16	500 LV	4.5	48	47	McCain +1
+SurveyUSA	6/20 - 6/22	630 LV	--	47	49	Obama +2
+PPP (D)	6/14 - 6/16	893 LV	--	45	47	Obama +2
+Rasmussen	6/12 - 6/12	500 LV	--	44	45	Obama +1
+SurveyUSA	5/16 - 5/18	600 RV	--	42	49	Obama +7
+VCU	5/12 - 5/18	852 RV	--	44	36	McCain +8
+Rasmussen	5/8 - 5/8	500 LV	--	47	44	McCain +3
+SurveyUSA	4/11 - 4/13	515 RV	--	52	44	McCain +8
+Rasmussen	3/27 - 3/27	500 LV	--	52	41	McCain +11
+SurveyUSA	2/26 - 2/28	629 RV	--	47	47	Tie
+Rasmussen	2/19 - 2/19	500 LV	--	49	44	McCain +5
+SurveyUSA	2/15 - 2/17	554 RV	--	45	51	Obama +6
+SurveyUSA	12/13 - 12/15	546 RV	--	50	44	McCain +6
+Reuters/Zogby	10/31 - 11/3	690 LV	4.1	45	52	Obama +7
+ARG	10/31 - 11/3	600 LV	4.0	47	51	Obama +4
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	47	51	Obama +4
+PPP (D)	10/31 - 11/2	1557 LV	2.5	46	52	Obama +6
+SurveyUSA	10/30 - 11/1	672 LV	3.9	46	50	Obama +4
+Mason-Dixon	10/29 - 10/30	625 LV	4.0	44	47	Obama +3
+CNN/Time	10/23 - 10/28	774 LV	3.5	44	53	Obama +9
+Marist	10/26 - 10/27	671 LV	4.0	47	51	Obama +4
+National Journal/FD	10/23 - 10/27	404 RV	4.9	44	48	Obama +4
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	47	51	Obama +4
+SurveyUSA	10/25 - 10/26	671 LV	3.9	43	52	Obama +9
+Reuters/Zogby	10/23 - 10/26	600 LV	4.1	45	52	Obama +7
+Associated Press/GfK	10/22 - 10/26	601 LV	4.0	42	49	Obama +7
+Roanoke College	10/19 - 10/26	614 LV	4.0	39	48	Obama +9
+Washington Post	10/22 - 10/25	784 LV	3.5	44	52	Obama +8
+VCU	10/20 - 10/22	817 LV	4.0	40	51	Obama +11
+NBC/Mason-Dixon	10/20 - 10/21	625 LV	4.0	45	47	Obama +2
+CNN/Time	10/19 - 10/21	647 LV	4.0	44	54	Obama +10
+SurveyUSA	10/18 - 10/19	652 LV	3.9	45	51	Obama +6
+Winthrop/ETV	9/28 - 10/19	665 LV	3.8	44	45	Obama +1
+Rasmussen	10/16 - 10/16	700 LV	3.0	44	54	Obama +10
+CNN/Time	10/11 - 10/14	698 LV	3.5	43	53	Obama +10
+CNU Virginia Poll	10/11 - 10/14	500 LV	4.4	47	53	Obama +6
+FOX News/Rasmussen	10/12 - 10/12	1000 LV	3.0	47	50	Obama +3
+PPP (D)	10/6 - 10/7	917 LV	3.2	43	51	Obama +8
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	48	50	Obama +2
+SurveyUSA	10/4 - 10/5	666 LV	3.9	43	53	Obama +10
+Suffolk	10/3 - 10/5	600 LV	--	39	51	Obama +12
+Mason-Dixon	9/29 - 10/1	625 LV	4.0	48	45	McCain +3
+CNN/Time	9/28 - 9/30	684 LV	4.0	44	53	Obama +9
+InAdv/PollPosition	9/29 - 9/29	436 LV	5.0	45	51	Obama +6
+ARG	9/27 - 9/29	600 LV	4.0	49	46	McCain +3
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	47	50	Obama +3
+Rasmussen	9/25 - 9/25	700 LV	4.0	45	50	Obama +5
+NBC/Mason-Dixon	9/17 - 9/22	625 LV	4.0	47	44	McCain +3
+FOX News/Rasmussen	9/21 - 9/21	500 LV	4.5	50	48	McCain +2
+SurveyUSA	9/19 - 9/21	716 LV	3.7	45	51	Obama +6
+ABC News/Wash Post	9/18 - 9/21	698 LV	3.5	46	49	Obama +3
+InAdv/PollPosition	9/17 - 9/17	502 LV	4.3	48	46	McCain +2
+National Journal/FD	9/11 - 9/15	400 RV	4.9	48	41	McCain +7
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	48	48	Tie
+PPP (D)	9/13 - 9/14	1090 LV	3.0	46	48	Obama +2
+SurveyUSA	9/12 - 9/14	732 LV	3.7	46	50	Obama +4
+CNU Virginia Poll	9/10 - 9/14	500 RV	4.4	48	39	McCain +9
+CNN/Time	9/7 - 9/9	920 RV	3.0	50	46	McCain +4
+FOX News/Rasmussen	9/7 - 9/7	500 LV	3.0	49	47	McCain +2
+SurveyUSA	9/5 - 9/7	717 LV	3.7	49	47	McCain +2
+PPP (D)	8/20 - 8/22	1036 LV	--	45	47	Obama +2
+InAdv/PollPosition	8/12 - 8/12	416 LV	5.0	43	43	Tie
+Rasmussen	8/12 - 8/12	500 LV	--	48	47	McCain +1
+SurveyUSA	8/8 - 8/10	655 LV	--	48	47	McCain +1
+PPP (D)	7/17 - 7/20	1327 LV	--	44	46	Obama +2
+Rasmussen	7/16 - 7/16	500 LV	4.5	48	47	McCain +1
+SurveyUSA	6/20 - 6/22	630 LV	--	47	49	Obama +2
+PPP (D)	6/14 - 6/16	893 LV	--	45	47	Obama +2
+Rasmussen	6/12 - 6/12	500 LV	--	44	45	Obama +1
+SurveyUSA	5/16 - 5/18	600 RV	--	42	49	Obama +7
+VCU	5/12 - 5/18	852 RV	--	44	36	McCain +8
+Rasmussen	5/8 - 5/8	500 LV	--	47	44	McCain +3
+SurveyUSA	4/11 - 4/13	515 RV	--	52	44	McCain +8
+Rasmussen	3/27 - 3/27	500 LV	--	52	41	McCain +11
+SurveyUSA	2/26 - 2/28	629 RV	--	47	47	Tie
+Rasmussen	2/19 - 2/19	500 LV	--	49	44	McCain +5
+SurveyUSA	2/15 - 2/17	554 RV	--	45	51	Obama +6
+SurveyUSA	12/13 - 12/15	546 RV	--	50	44	McCain +6
+Strategic Vision (R)	10/31 - 11/2	800 LV	3.0	40	55	Obama +15
+SurveyUSA	10/30 - 11/2	663 LV	3.9	40	56	Obama +16
+The Washington Poll	10/27 - 10/31	387 RV	5.0	39	51	Obama +12
+SurveyUSA	10/26 - 10/27	630 LV	4.0	39	56	Obama +17
+Strategic Vision (R)	10/25 - 10/26	800 LV	3.0	42	54	Obama +12
+The Washington Poll	10/18 - 10/26	600 RV	4.0	34	55	Obama +21
+Rasmussen	10/22 - 10/22	500 LV	4.5	43	54	Obama +11
+Elway Poll	10/16 - 10/19	405 RV	5.0	36	55	Obama +19
+SurveyUSA	10/12 - 10/13	544 LV	4.3	40	56	Obama +16
+Rasmussen	10/2 - 10/2	700 LV	4.0	43	53	Obama +10
+SurveyUSA	9/21 - 9/22	682 LV	3.8	43	54	Obama +11
+Strategic Vision (R)	9/14 - 9/16	800 LV	3.0	42	47	Obama +5
+Rasmussen	9/10 - 9/10	500 LV	4.5	47	49	Obama +2
+Elway Poll	9/6 - 9/8	225 RV	6.5	39	45	Obama +6
+SurveyUSA	9/5 - 9/7	658 LV	3.9	45	49	Obama +4
+SurveyUSA	8/11 - 8/12	718 LV	3.7	44	51	Obama +7
+Rasmussen	8/6 - 8/6	500 LV	4.5	42	54	Obama +12
+Elway Poll	7/27 - 7/31	405 RV	5.0	35	47	Obama +12
+Strategic Vision (R)	7/25 - 7/27	800 LV	3.0	37	48	Obama +11
+SurveyUSA	7/13 - 7/15	666 LV	--	39	55	Obama +16
+Moore Info. (R)	7/9 - 7/10	400 LV	--	37	47	Obama +10
+Rasmussen	7/9 - 7/9	500 LV	--	43	51	Obama +8
+Strategies 360 (D)	6/23 - 6/26	1200 RV	--	39	47	Obama +8
+SurveyUSA	6/17 - 6/19	532 LV	4.3	40	55	Obama +15
+Rasmussen	6/9 - 6/9	500 LV	--	35	53	Obama +18
+Elway Poll	5/26 - 5/29	405 RV	5.0	38	44	Obama +6
+SurveyUSA	5/16 - 5/18	600 RV	--	36	52	Obama +16
+Rasmussen	5/12 - 5/12	500 LV	--	40	51	Obama +11
+SurveyUSA	4/14 - 4/16	634 LV	--	40	53	Obama +13
+Rasmussen	3/27 - 3/27	500 LV	--	43	48	Obama +5
+Elway Poll	3/18 - 3/20	405 RV	--	39	45	Obama +6
+Rasmussen	2/28 - 2/28	500 LV	--	45	44	McCain +1
+SurveyUSA	2/26 - 2/28	634 RV	--	38	52	Obama +14
+SurveyUSA	1/11 - 1/13	527 RV	--	43	52	Obama +9
+SurveyUSA	12/13 - 12/15	513 RV	--	43	50	Obama +7
+ARG	10/31 - 11/3	600 LV	4.0	53	42	McCain +11
+PPP (D)	10/29 - 10/30	2128 LV	2.1	55	42	McCain +13
+Reuters/Zogby	10/23 - 10/26	600 LV	4.1	50	40	McCain +10
+Research 2000	10/22 - 10/24	600 LV	4.0	49	43	McCain +6
+Orion Strategies (D)	10/20 - 10/21	600 LV	4.0	49	44	McCain +5
+CNN/Time	10/19 - 10/21	674 LV	4.0	53	44	McCain +9
+Rasmussen	10/20 - 10/20	500 LV	4.5	52	43	McCain +9
+NBC/Mason-Dixon	10/16 - 10/17	625 LV	4.0	47	41	McCain +6
+PPP (D)	10/16 - 10/17	1223 LV	2.8	50	42	McCain +8
+InAdv/PollPosition	10/13 - 10/13	522 LV	4.0	49	47	McCain +2
+ARG	10/4 - 10/8	600 LV	4.0	42	50	Obama +8
+Rasmussen	9/24 - 9/24	500 LV	4.5	50	42	McCain +8
+CNN/Time	9/21 - 9/23	694 LV	3.5	50	46	McCain +4
+Orion Strategies (D)	9/21 - 9/22	600 LV	4.0	52	41	McCain +11
+MBE	9/5 - 9/8	432 RV	4.7	44	39	McCain +5
+Rasmussen	6/2 - 6/2	500 LV	4.5	45	37	McCain +8
+SurveyUSA	2/26 - 2/28	617 RV	4.0	53	35	McCain +18
+Strategic Vision (R)	10/31 - 11/2	800 LV	3.0	40	53	Obama +13
+SurveyUSA	10/28 - 10/29	667 LV	3.9	39	55	Obama +16
+Research 2000	10/27 - 10/28	600 LV	4.0	42	53	Obama +11
+U. of WI	10/21 - 10/28	359 LV	5.2	42	52	Obama +10
+Strategic Vision (R)	10/24 - 10/26	800 LV	3.0	41	50	Obama +9
+Rasmussen	10/23 - 10/23	500 LV	4.5	44	51	Obama +7
+Big10 Battleground	10/19 - 10/22	584 LV	4.2	40	53	Obama +13
+Research 2000	10/19 - 10/20	600 LV	4.0	41	52	Obama +11
+National Journal/FD	10/16 - 10/20	405 RV	4.9	40	53	Obama +13
+SurveyUSA	10/18 - 10/19	641 LV	3.9	43	51	Obama +8
+NBC/Mason-Dixon	10/16 - 10/17	625 LV	4.0	39	51	Obama +12
+WPR/St. Norbert	10/9 - 10/17	400 LV	5.0	38	51	Obama +13
+Quinnipiac/WSJ/WP	10/8 - 10/12	1201 LV	3.0	37	54	Obama +17
+Rasmussen	10/6 - 10/6	700 LV	4.0	44	54	Obama +10
+Research 2000	10/5 - 10/6	600 LV	4.0	41	51	Obama +10
+SurveyUSA	10/5 - 10/6	672 LV	3.9	42	52	Obama +10
+CNN/Time	10/3 - 10/6	859 LV	3.5	46	51	Obama +5
+Strategic Vision (R)	9/26 - 9/28	800 LV	3.0	40	49	Obama +9
+Research 2000	9/22 - 9/23	600 LV	4.0	43	49	Obama +6
+Quinnipiac/WSJ/WP	9/14 - 9/21	1313 LV	2.7	42	49	Obama +7
+Big10 Battleground	9/14 - 9/17	600 RV	4.0	44	45	Obama +1
+Rasmussen	9/15 - 9/15	700 LV	4.0	46	48	Obama +2
+CNN/Time	9/13 - 9/14	950 RV	3.0	47	50	Obama +3
+Strategic Vision (R)	9/5 - 9/7	800 LV	3.0	43	46	Obama +3
+Strategic Vision (R)	8/8 - 8/10	800 LV	--	42	47	Obama +5
+Rasmussen	8/5 - 8/5	500 LV	4.5	44	51	Obama +7
+WPRI	8/3 - 8/4	600 LV	4.0	38	44	Obama +6
+Quinnipiac/WSJ/WP	7/14 - 7/22	1094 LV	--	39	50	Obama +11
+Rasmussen	7/8 - 7/8	500 LV	4.5	42	52	Obama +10
+Quinnipiac/WSJ/WP	6/17 - 6/24	1537 LV	--	39	52	Obama +13
+SurveyUSA	6/13 - 6/16	538 LV	--	43	52	Obama +9
+U. of WI	6/8 - 6/10	506 LV	4.5	37	50	Obama +13
+Rasmussen	6/5 - 6/5	500 LV	--	43	45	Obama +2
+SurveyUSA	5/16 - 5/18	600 RV	--	42	48	Obama +6
+Rasmussen	5/5 - 5/5	500 LV	--	47	43	McCain +4
+U. of WI	4/15 - 4/24	345 LV	--	43	47	Obama +4
+SurveyUSA	4/11 - 4/13	541 RV	--	44	49	Obama +5
+WPRI	3/25 - 4/5	400 A	--	42	46	Obama +4
+Rasmussen	3/26 - 3/26	500 LV	--	48	46	McCain +2
+SurveyUSA	3/14 - 3/16	528 RV	--	44	48	Obama +4
+SurveyUSA	2/26 - 2/28	597 RV	--	40	51	Obama +11
+SurveyUSA	2/15 - 2/17	537 RV	--	42	52	Obama +10
+SurveyUSA	1/20 - 1/21	532 RV	--	46	44	McCain +2
+SurveyUSA	12/13 - 12/15	542 RV	--	44	46	Obama +2
+SurveyUSA	10/18 - 10/19	604 LV	58	37	McCain +21
+Research 2000	10/14 - 10/16	500 LV	58	35	McCain +23
+Research 2000	9/22 - 9/24	500 LV	57	36	McCain +21
+Rasmussen	9/10 - 9/10	500 LV	58	39	McCain +19
+Mason-Dixon	8/13 - 8/15	400 LV	62	25	McCain +37
+Research 2000	5/20 - 5/21	500 LV	53	40	McCain +13
+SurveyUSA	2/26 - 2/28	576 RV	54	35	McCain +19

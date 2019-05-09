@@ -1,0 +1,9 @@
+SE Louisiana	10/20 - 10/23	503 RV	51	38	McCain +13
+Rasmussen	10/21 - 10/21	500 LV	57	41	McCain +16
+Rasmussen	9/25 - 9/25	500 LV	55	40	McCain +15
+Rasmussen	8/17 - 8/17	500 LV	57	39	McCain +18
+Rasmussen	7/9 - 7/9	500 LV	56	37	McCain +19
+S. Media/Op. Research	6/26 - 6/28	600 LV	52	36	McCain +16
+Rasmussen	5/28 - 5/28	500 LV	50	41	McCain +9
+S. Media/Op. Research	3/26 - 4/9	600 LV	51	35	McCain +16
+SurveyUSA	2/26 - 2/28	599 RV	54	39	McCain +15

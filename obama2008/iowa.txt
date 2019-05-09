@@ -1,0 +1,35 @@
+Des Moines Register	10/28 - 10/31	814 LV	3.4	37	54	Obama +17
+SurveyUSA	10/28 - 10/29	658 LV	3.9	40	55	Obama +15
+Research 2000	10/27 - 10/29	600 LV	4.0	39	53	Obama +14
+Marist	10/23 - 10/24	645 LV	4.0	42	52	Obama +10
+Rasmussen	10/23 - 10/23	700 LV	4.0	44	52	Obama +8
+NBC/Mason-Dixon	10/22 - 10/23	625 LV	4.0	40	51	Obama +11
+Big10 Battleground	10/19 - 10/22	586 LV	4.2	39	52	Obama +13
+Quad City-Times/R2000	10/19 - 10/22	600 LV	4.0	39	54	Obama +15
+SurveyUSA	10/8 - 10/9	692 LV	3.8	41	54	Obama +13
+Research 2000	9/29 - 9/30	600 LV	4.0	39	55	Obama +16
+Rasmussen	9/25 - 9/25	700 LV	4.0	43	51	Obama +8
+Marist	9/18 - 9/21	467 LV	4.0	41	51	Obama +10
+SurveyUSA	9/17 - 9/18	702 LV	3.8	43	54	Obama +11
+Quad-City Times/R2000	9/15 - 9/17	600 LV	4.0	39	53	Obama +14
+Big10 Battleground	9/14 - 9/17	643 RV	4.0	45	45	Tie
+Des Moines Register	9/8 - 9/10	616 LV	4.0	40	52	Obama +12
+CNN/Time	8/31 - 9/2	828 RV	--	40	55	Obama +15
+Univ. of Iowa	8/4 - 8/13	617 LV	--	43	50	Obama +7
+Rasmussen	8/7 - 8/7	700 LV	4.0	44	49	Obama +5
+Rasmussen	7/10 - 7/10	500 LV	--	41	51	Obama +10
+SurveyUSA	6/13 - 6/16	528 LV	--	45	49	Obama +4
+Rasmussen	6/10 - 6/10	500 LV	--	38	45	Obama +7
+SurveyUSA	5/21 - 5/22	600 RV	--	38	47	Obama +9
+Rasmussen	5/13 - 5/13	500 LV	--	42	44	Obama +2
+Research 2000	4/21 - 4/23	600 LV	--	41	49	Obama +8
+SurveyUSA	4/11 - 4/13	553 RV	--	42	49	Obama +7
+Rasmussen	3/31 - 3/31	500 LV	--	42	46	Obama +4
+SurveyUSA	2/26 - 2/28	619 RV	--	41	50	Obama +9
+Rasmussen	2/18 - 2/18	500 LV	--	41	44	Obama +3
+SurveyUSA	2/15 - 2/17	563 RV	--	41	51	Obama +10
+SurveyUSA	1/4 - 1/6	543 RV	--	38	55	Obama +17
+SurveyUSA	12/13 - 12/15	539 RV	--	39	51	Obama +12
+Research 2000	11/12 - 11/14	600 LV	--	37	47	Obama +10
+SurveyUSA	11/9 - 11/11	546 RV	--	42	50	Obama +8
+Research 2000	12/18 - 12/20	600 LV	--	39	42	Obama +3
