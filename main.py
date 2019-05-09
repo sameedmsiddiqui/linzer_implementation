@@ -5,6 +5,11 @@ import math
 import argparse
 import os
 from hashlib import md5
+import numpy as np
+import scipy
+import pandas as pd
+import seaborn as sns
+sns.set(style="darkgrid")
 
 model_code = """
 data {
@@ -403,10 +408,7 @@ def run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root):
     fit = fit_model(model, data_2008, iterations, chains, cache_name)
 
 
-
 def main():
-
-
     parser = argparse.ArgumentParser()
     parser.add_argument('--year', help='2008 or 2016?')
     parser.add_argument('--chains', type=int)
@@ -414,6 +416,8 @@ def main():
     parser.add_argument('--iterations', type=int)
     parser.add_argument('--project_root', required=True)
     parser.add_argument('--cores_per_chain', default="1")
+    parser.add_argument('--saved_fit', default='')
+    parser.add_argument('--saved_model', default='')
     args = parser.parse_args()
 
     cores_per_chain = args.cores_per_chain
@@ -422,17 +426,112 @@ def main():
     hist_dist_std = args.hist_dist_std
     iterations = args.iterations
     project_root = args.project_root
+    saved_fit = args.saved_fit
+    saved_model = args.saved_model
 
     os.environ['STAN_NUM_THREADS'] = cores_per_chain
 
+    if saved_fit != '':
+        # this means we're gonna plot.
+        with open(saved_model, "rb") as f:
+            model = pickle.load(f)
+        with open(saved_fit, "rb") as f:
+            fit = pickle.load(f)
+        print('loaded model and fit')
+        pi = fit.extract(permuted=True)['pi']
+        # print('begin fixing posterior')
+        # for i in range(0, len(pi)):
+        #     for j in range(0, len(pi[i])):
+        #         for k in range(0, len(pi[i][j])):
+        #             pi[i][j][k] = 1/(1 + math.exp(-1*pi[i][j][k]))
+        # print('finish fixing posterior')
+        # let's get the Pi's just for Floriddaaaaaa!
+        # florida is going to be at pi[chains, days, 35]
+        pi_florida = np.asarray(pi[:, -180:, 35])  # we only want to get the last 180 days of polling
+        for i in range(0, len(pi_florida)):
+            for j in range(0, len(pi_florida[i])):
+                    pi_florida[i][j] = 1/(1 + math.exp(-1*pi_florida[i][j]))
+        '''
+        pi_florida looks like:
+        array([[0.502, 0.501, 0.5,... 0.503], <-chain1, 180 days 
+               [0.492, 0.493, 0.501,... 0.513], <-chain2, 180 days 
+               [0.502, 0.500, 0.498,... 0.483], <-chain3, 180 days 
+               ])
+
+        '''
+        days_confidence_intervals = np.zeros((180, 3))  # the second dimension is m, m-h, m+h
+        for i in range(0, 180):
+            m, hl, hu = mean_confidence_interval(pi_florida[:, i])
+            days_confidence_intervals[i, 0] = m
+            days_confidence_intervals[i, 1] = hl
+            days_confidence_intervals[i, 2] = hu
+
+        # # use pandas/seaborn.
+        # state_df = pd.DataFrame(columns=["Days before election", "Democratic vote"])
+        # for chain in range(0, len(pi_florida)):
+        #     for day in range(0, 180):
+        #         state_df.loc[len(state_df)] = [180-day, pi_florida[chain][day]]
+        #
+        # election_plot = sns.lineplot(x="Days before election", y="Democratic vote", data=state_df)
+        # fig = election_plot.get_figure()
+        # fig.savefig('florida_prediction_2016_hist_dist_std_0.014.png')
+        print('hello')
+        return
+
     print('Creating model')
     model, code_hash = stan_model_cache(model_code=model_code)
-
     if year == '2016':
         run_2016(model, iterations, chains, hist_dist_std, code_hash, project_root)
-
-    if year == '2008':
+    elif year == '2008':
         run_2008(model, iterations, chains, hist_dist_std, code_hash, project_root)
+
+
+def mean_confidence_interval(data, confidence=0.90):
+    # cc-sa https://stackoverflow.com/questions/15033511/compute-a-confidence-interval-from-sample-data
+    a = 1.0 * np.array(data)
+    n = len(a)
+    m, se = np.mean(a), scipy.stats.sem(a)
+    h = se * scipy.stats.t.ppf((1 + confidence) / 2., n - 1)
+    return m, m - h, m + h
+
+
+def main2():
+    schools_code = """
+    data {
+        int<lower=0> J; // number of schools
+        vector[J] y; // estimated treatment effects
+        vector<lower=0>[J] sigma; // s.e. of effect estimates
+    }
+    parameters {
+        real mu;
+        real<lower=0> tau;
+        vector[J] eta;
+    }
+    transformed parameters {
+        vector[J] theta;
+        theta = mu + tau * eta;
+    }
+    model {
+        eta ~ normal(0, 1);
+        y ~ normal(theta, sigma);
+    }
+    """
+
+    schools_dat = {'J': 8,
+                   'y': [28, 8, -3, 7, -1, 1, 18, 12],
+                   'sigma': [15, 10, 16, 11, 9, 11, 10, 18]}
+    sm, _ = stan_model_cache(model_code=schools_code, model_name='testmodel')
+    fit = sm.sampling(data=schools_dat, iter=2500, chains=3)
+
+    la = fit.extract(permuted=True)  # return a dictionary of arrays
+    mu = la['mu']
+
+    ## return an array of three dimensions: iterations, chains, parameters
+    a = fit.extract(permuted=False)
+
+    print(fit)
+    fit.plot()
+    print(fit)
 
 
 if __name__ == "__main__":
