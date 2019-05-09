@@ -179,7 +179,7 @@ def get_2008_data(hist_dist_std, project_root):
                 polls_n_wk.append(day_to_week_map[poll_day - 1])
                 polls_state.append(state_numb + 1)
 
-    hist_dist, hist_dist_precision = create_historical_predictions_for_2008(hist_dist_std)
+    hist_dist, hist_dist_precision = create_historical_predictions_for_2008(hist_dist_std, project_root)
 
     return {'polls_n_voters': polls_n_voters,
             'polls_n_democratic': polls_n_democratic,
@@ -307,7 +307,7 @@ def get_2016_data(hist_dist_std, project_root):
                 polls_n_wk.append(day_to_week_map[poll_day - 1])
                 polls_state.append(state_numb + 1)
 
-    hist_dist, hist_dist_precision = create_historical_predictions_for_2016(hist_dist_std)
+    hist_dist, hist_dist_precision = create_historical_predictions_for_2016(hist_dist_std, project_root)
 
     return {'polls_n_voters': polls_n_voters,
             'polls_n_democratic': polls_n_democratic,
