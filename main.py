@@ -531,7 +531,7 @@ def main():
 
         pi = fit.extract(permuted=True)['pi']
         for state in states:
-            sf[states_num_dict[state], wk_idx] = pi[:, -1, state]
+            sf[states_num_dict[state], wk_idx] = pi[:, -1, states_num_dict[state]]
 
     for idx, state in enumerate(states):
         print(
