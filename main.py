@@ -123,7 +123,7 @@ n_states = 50
 
 
 def logit(x):
-    return math.log(x/(1-x))
+    return math.log(x / (1 - x))
 
 
 def get_2008_data(hist_dist_std, project_root, weeks_before_election):
@@ -484,7 +484,7 @@ def main():
     # print('finish fixing posterior')
     # let's get the Pi's just for Floriddaaaaaa!
     # florida is going to be at pi[chains, days, 35]
-    state_id = 0
+    state_id = 35
     pi_florida = np.asarray(pi[:, -180:-1, state_id])  # we only want to get the last 180 days of polling
     '''
     pi_florida looks like:
@@ -519,6 +519,25 @@ def main():
                'hist_dist_std_{}-wks_before{}.png'.format(hist_dist_std, weeks_before_election)
     plt.savefig(pic_name)
     print('hello')
+
+    weeks = [16, 14, 12, 10, 8, 6, 4, 2, 0]
+    sf = np.zeros((50, len(weeks)))  # state_forecasts
+
+    fit_files = []
+
+    for wk_idx, fit_file in enumerate(fit_files):
+        with open(fit_file, "rb") as f:
+            fit = pickle.load(f)
+
+        pi = fit.extract(permuted=True)['pi']
+        for state in states:
+            sf[states_num_dict[state], wk_idx] = pi[:, -1, state]
+
+    for idx, state in enumerate(states):
+        print(
+            '{},{},{},{},{},{},{},{},{},{}'.format(state, sf[idx, 0], sf[idx, 1], sf[idx, 2], sf[idx, 3], sf[idx, 4],
+                                                   sf[idx, 5], sf[idx, 6], sf[idx, 7], sf[idx, 8]))
+
     return
 
 
