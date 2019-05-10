@@ -195,7 +195,7 @@ def get_2008_data(hist_dist_std, project_root, weeks_before_election):
                     math.ceil(voter_count * float(w[idx_dem]) / (float(w[idx_dem]) + float(w[idx_repub]))))
                 polls_n_day.append(poll_day)
                 polls_n_wk.append(day_to_week_map[poll_day - 1])
-                print('added poll for ' + state + ' - state # {}'.format(state_numb))
+                # print('added poll for ' + state + ' - state # {}'.format(state_numb))
                 polls_state.append(state_numb + 1)
 
     hist_dist, hist_dist_precision = create_historical_predictions_for_2008(hist_dist_std, project_root)
