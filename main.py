@@ -7,7 +7,10 @@ import os
 from hashlib import md5
 import numpy as np
 import scipy
-import pandas as pd
+import matplotlib
+
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 sns.set(style="darkgrid")
@@ -166,26 +169,33 @@ def get_2008_data(hist_dist_std, project_root, weeks_before_election):
             for line in file:
                 w = line.split('\t')
                 if len(w) < 6:
+                    # print('skipping ' + line)
                     continue
                 idx_date = 1
                 idx_n_voters = 2
                 idx_dem = 4 if len(w) == 6 else 5
+                idx_repub = 3 if len(w) == 6 else 4
                 poll_datestring = w[idx_date].split('-')[1].split()[0].split('/')
                 poll_day = (datetime.datetime(2008, int(poll_datestring[0]), int(poll_datestring[1])) - date1).days + 1
                 # some polls were taken after election day, so we can throw them out.
                 if poll_day >= n_days_total:
+                    # print('skipping ' + line)
                     continue
                 # sometimes we only want to look at polls up till a certain date:
                 if day_to_week_map[poll_day] > n_wks_total - weeks_before_election:
+                    # print('skipping ' + line)
                     continue
                 voter_count_str = w[idx_n_voters].split()[0]
                 if not voter_count_str.isnumeric():
+                    # print('skipping ' + line)
                     continue
                 voter_count = int(voter_count_str)
                 polls_n_voters.append(voter_count)
-                polls_n_democratic.append(math.ceil(voter_count * int(w[idx_dem]) / 100))
+                polls_n_democratic.append(
+                    math.ceil(voter_count * float(w[idx_dem]) / (float(w[idx_dem]) + float(w[idx_repub]))))
                 polls_n_day.append(poll_day)
                 polls_n_wk.append(day_to_week_map[poll_day - 1])
+                print('added poll for ' + state + ' - state # {}'.format(state_numb))
                 polls_state.append(state_numb + 1)
 
     hist_dist, hist_dist_precision = create_historical_predictions_for_2008(hist_dist_std, project_root)
@@ -232,7 +242,7 @@ def create_historical_predictions_for_2008(hist_dist_std, project_root):
         elif states[i] == 'arizona':  # mccain's home state
             hist_dist[i] -= .03
 
-    hist_dist_precision = [1 / hist_dist_std] * 50  # .0016 from Abramowitz, Forecasting the 2008Presidential...
+    hist_dist_precision = [hist_dist_std] * 50  # .0016 from Abramowitz, Forecasting the 2008Presidential...
 
     return hist_dist, hist_dist_precision
 
@@ -299,6 +309,7 @@ def get_2016_data(hist_dist_std, project_root, weeks_before_election):
                 idx_date = 3
                 idx_n_voters = 5
                 idx_dem = 9
+                idx_repub = 8
                 poll_datestring = [int(t) for t in w[idx_date].strip('"').split('-')]
                 poll_day = (datetime.datetime(poll_datestring[0], poll_datestring[1],
                                               poll_datestring[2]) - date1).days + 1
@@ -313,7 +324,8 @@ def get_2016_data(hist_dist_std, project_root, weeks_before_election):
                     continue
                 voter_count = int(voter_count_str)
                 polls_n_voters.append(voter_count)
-                polls_n_democratic.append(math.ceil(voter_count * int(w[idx_dem]) / 100))
+                polls_n_democratic.append(
+                    math.ceil(voter_count * float(w[idx_dem]) / (float(w[idx_dem]) + float(w[idx_repub]))))
                 polls_n_day.append(poll_day)
                 polls_n_wk.append(day_to_week_map[poll_day - 1])
                 polls_state.append(state_numb + 1)
@@ -360,7 +372,7 @@ def create_historical_predictions_for_2016(hist_dist_std, project_root):
                 time_for_change_2016_national_prediction - national_2012_dem_ratio)
         # we on't add any bias for home states, because neither politician represented a state at election time.
 
-    hist_dist_precision = [1 / hist_dist_std] * 50  # .0014 from Abramowitz
+    hist_dist_precision = [hist_dist_std] * 50  # .014 from Abramowitz
 
     return hist_dist, hist_dist_precision
 
@@ -439,6 +451,8 @@ def main():
 
     os.environ['STAN_NUM_THREADS'] = cores_per_chain
 
+    data_2008 = get_2008_data(hist_dist_std, project_root, weeks_before_election)
+
     if saved_fit != '':
         # this means we're gonna plot.
         with open(saved_model, "rb") as f:
@@ -455,10 +469,8 @@ def main():
         # print('finish fixing posterior')
         # let's get the Pi's just for Floriddaaaaaa!
         # florida is going to be at pi[chains, days, 35]
-        pi_florida = np.asarray(pi[:, -180:, 35])  # we only want to get the last 180 days of polling
-        for i in range(0, len(pi_florida)):
-            for j in range(0, len(pi_florida[i])):
-                pi_florida[i][j] = 1 / (1 + math.exp(-1 * pi_florida[i][j]))
+        state_id = 35
+        pi_florida = np.asarray(pi[:, -180:-1, state_id])  # we only want to get the last 180 days of polling
         '''
         pi_florida looks like:
         array([[0.502, 0.501, 0.5,... 0.503], <-chain1, 180 days 
@@ -467,8 +479,8 @@ def main():
                ])
 
         '''
-        days_confidence_intervals = np.zeros((180, 3))  # the second dimension is m, m-h, m+h
-        for i in range(0, 180):
+        days_confidence_intervals = np.zeros((179, 3))  # the second dimension is m, m-h, m+h
+        for i in range(0, 179):
             m, hl, hu = mean_confidence_interval(pi_florida[:, i])
             days_confidence_intervals[i, 0] = m
             days_confidence_intervals[i, 1] = hl
@@ -483,6 +495,14 @@ def main():
         # election_plot = sns.lineplot(x="Days before election", y="Democratic vote", data=state_df)
         # fig = election_plot.get_figure()
         # fig.savefig('florida_prediction_2016_hist_dist_std_0.014.png')
+
+        plt.plot(range(0, len(days_confidence_intervals)), days_confidence_intervals[:, 0], 'k', color='#3F7F4C')
+        plt.fill_between(range(0, len(days_confidence_intervals)), days_confidence_intervals[:, 1],
+                         days_confidence_intervals[:, 2], alpha=1, edgecolor='#3F7F4C', facecolor='#7EFF99',
+                         linewidth=0)
+        pic_name = 'state_id_{}-fit-model_{}-iterations_{}-chains_{}-'.format(state_id, year, iterations, chains) + \
+                   'hist_dist_std_{}-wks_before{}.png'.format(hist_dist_std, weeks_before_election)
+        plt.savefig(pic_name)
         print('hello')
         return
 

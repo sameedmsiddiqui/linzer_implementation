@@ -1,22 +1,22 @@
-SurveyUSA	10/27 - 10/28	61	36	McCain +25
-AEA/Capital Survey	10/15 - 10/21	54	34	McCain +20
-SurveyUSA	10/8 - 10/9	62	35	McCain +27
-AEA/Capital Survey	10/2 - 10/7	55	35	McCain +20
-Rasmussen	9/22 - 9/22	60	39	McCain +21
-SurveyUSA	9/16 - 9/17	64	34	McCain +30
-Press Register	9/8 - 9/15	52	25	McCain +27
-AEA/Capital Survey	9/3 - 9/9	55	35	McCain +20
-Rasmussen	7/31 - 7/31	58	38	McCain +20
-AEA/Capital Survey	7/29 - 7/31	47	34	McCain +13
-AEA/Capital Survey	6/25 - 7/1	49	36	McCain +13
-Rasmussen	6/26 - 6/26	51	36	McCain +15
-AEA/Capital Survey	5/15 - 6/2	57	33	McCain +24
-Rasmussen	5/27 - 5/27	60	32	McCain +28
-AEA/Capital Survey	4/16 - 4/24	55	36	McCain +19
-SurveyUSA	4/11 - 4/13	64	32	McCain +32
-Rasmussen	4/2 - 4/2	55	37	McCain +18
-Press Register	3/24 - 3/27	57	30	McCain +27
-SurveyUSA	3/14 - 3/16	62	35	McCain +27
-SurveyUSA	2/26 - 2/28	54	40	McCain +14
-SurveyUSA	2/15 - 2/17	58	34	McCain +24
-SurveyUSA	12/13 - 12/15	54	36	McCain +18
+SurveyUSA	10/27 - 10/28	100	61	36	McCain +25
+AEA/Capital Survey	10/15 - 10/21	100	54	34	McCain +20
+SurveyUSA	10/8 - 10/9	100	62	35	McCain +27
+AEA/Capital Survey	10/2 - 10/7	100	55	35	McCain +20
+Rasmussen	9/22 - 9/22	100	60	39	McCain +21
+SurveyUSA	9/16 - 9/17	100	64	34	McCain +30
+Press Register	9/8 - 9/15	100	52	25	McCain +27
+AEA/Capital Survey	9/3 - 9/9	100	55	35	McCain +20
+Rasmussen	7/31 - 7/31	100	58	38	McCain +20
+AEA/Capital Survey	7/29 - 7/31	100	47	34	McCain +13
+AEA/Capital Survey	6/25 - 7/1	100	49	36	McCain +13
+Rasmussen	6/26 - 6/26	100	51	36	McCain +15
+AEA/Capital Survey	5/15 - 6/2	100	57	33	McCain +24
+Rasmussen	5/27 - 5/27	100	60	32	McCain +28
+AEA/Capital Survey	4/16 - 4/24	100	55	36	McCain +19
+SurveyUSA	4/11 - 4/13	100	64	32	McCain +32
+Rasmussen	4/2 - 4/2	100	55	37	McCain +18
+Press Register	3/24 - 3/27	100	57	30	McCain +27
+SurveyUSA	3/14 - 3/16	100	62	35	McCain +27
+SurveyUSA	2/26 - 2/28	100	54	40	McCain +14
+SurveyUSA	2/15 - 2/17	100	58	34	McCain +24
+SurveyUSA	12/13 - 12/15	100	54	36	McCain +18
